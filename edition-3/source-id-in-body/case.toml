@@ -1,0 +1,3 @@
+rule = "S8"
+checks = ["form", "sources"]
+about = "The source names the commit. The short run value and branch name stay in the body, without being treated as references."

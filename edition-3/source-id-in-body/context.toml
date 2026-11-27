@@ -1,0 +1,13 @@
+[settings]
+repositories = { work = "https://forge.example/work" }
+source-hashes = false
+
+[lookup]
+object-inventory-complete = true
+parent-graph-complete = true
+
+[[commit]]
+name = "work"
+id = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+parents = []
+tree-complete = true
