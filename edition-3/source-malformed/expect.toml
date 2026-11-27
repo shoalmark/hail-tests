@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-source-form"
+location = "source 1"
+match = "exact"
+line = "source 1: not-a-reference is not a well-formed source value; write name:path@commit using a listed name, a relative path of nonempty /-separated segments containing only ASCII letters, digits, ., _ or - (no . or .. segments), and 7 to 64 lower-case hex commit digits; optionally append sha256 H with H equal to the committed file's 64 lower-case hex hash."

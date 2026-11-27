@@ -51,8 +51,11 @@ edition-3/source-commit-only	E2
 edition-3/source-hash-required	E2
 edition-3/source-hash-valid	E2
 edition-3/source-hash-wrong	E2
+edition-3/source-malformed	E12
+edition-3/source-malformed-hash	E12
+edition-3/source-malformed-path	E12
 edition-3/source-missing-file	E2
-edition-3/source-no-commit	E2
+edition-3/source-no-commit	E12
 edition-3/sources-and-pointer	E1
 edition-3/sources-ask-citation	E1
 edition-3/sources-gap	E1

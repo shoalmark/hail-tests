@@ -1,3 +1,3 @@
-rule = "E2"
+rule = "E12"
 checks = ["form", "sources"]
-about = "Committed source bytes and optional hash."
+about = "An incomplete reference prints the complete source form and optional hash. Without @commit, lookup and hash checks skip."
