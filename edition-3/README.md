@@ -38,3 +38,23 @@ unchecked display; an omitted verification result must never imply success. In r
 `roster-signing-required` projects `teams.<team>.signing-required`; omission selects §9's true default.
 Expected step, verification status, effect, selection, actions, owed state and clocks live only in
 `expect.toml`, not beside those inputs.
+
+## Earlier-edition read
+
+`first-edition-pointer-read` selects `earlier-edition-read`. Its context projects the edition and
+text settings at the original filing; `current-edition` describes the reader's current record.
+These are supplied settings facts, not a serialized roster or proof of a historical filing.
+
+1. Select `filing-settings.edition` and its text pin before reading the frame. Do not select the
+   current edition or try parsers until one accepts.
+2. Load `text-path` at `text-commit` from `text-repository` (`hail` names the companion text
+   repository), and check its bytes against `text-sha256`. That pinned first-edition text is the
+   source for the frame, header and body-form check in its sections 1–3.
+3. Read `input.hail` under that text. Retain the input bytes, including its pointer line and final
+   LF. Report the selected edition and text commit, and the retained bytes' sha256 as
+   `preserved-sha256`; compare those fields with `expect.toml` under the contract above.
+
+The selected check covers edition selection, form and byte preservation. Authority, signing,
+receipt obligations and time freshness remain outside it. The paired `sources-legacy-header`
+case supplies identical bytes to the current third-edition form check as a new filing and expects
+refusal. Reading the old record grants no right to file those bytes under the new edition.

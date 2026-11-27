@@ -9,6 +9,7 @@ edition-3/done-no-result-source	E5
 edition-3/filed-grammar-fault	E12
 edition-3/filed-source-unavailable	E2
 edition-3/filing-grammar-fault	E12
+edition-3/first-edition-pointer-read	E1
 edition-3/forge-after-push	E13
 edition-3/grammar-default-none	E4
 edition-3/grammar-sender-override	E4
