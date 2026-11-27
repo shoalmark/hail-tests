@@ -1,0 +1,3 @@
+rule = "R3"
+checks = ["form", "sources"]
+about = "The full id of source 1 is present and passes. The full id of source 2 is unavailable. Report source 2 separately; the overall verdict is not checked, never pass."

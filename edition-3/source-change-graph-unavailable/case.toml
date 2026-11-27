@@ -1,0 +1,3 @@
+rule = "R3"
+checks = ["form", "sources"]
+about = "Both endpoint commits are supplied, but the parent C of to is missing and the graph is explicitly incomplete. Non-ancestry cannot be inferred; report not checked."

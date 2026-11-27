@@ -1,0 +1,13 @@
+format = 2
+verdict = "not checked"
+fault-count = 0
+faults = []
+
+[[reports]]
+code = "source-not-checked"
+location = "source 1"
+example = "source 1: not checked; supply the missing commit, tree, blob or complete parent-graph inputs for this source and run the check again."
+
+[[source-results]]
+source = 1
+status = "not checked"
