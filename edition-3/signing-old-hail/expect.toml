@@ -1,3 +1,5 @@
 verdict = "pass"
 faults = []
 reports = []
+required-step = "by the forge's access alone"
+verification-status = "by the forge's access alone"

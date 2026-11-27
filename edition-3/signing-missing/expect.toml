@@ -1,3 +1,5 @@
 verdict = "refuse"
 faults = ["header from: this owner requires signing; file with the listed bot’s verified signed commit."]
 reports = []
+required-step = "signing required"
+verification-status = "refused"

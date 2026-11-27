@@ -1,0 +1,5 @@
+verdict = "pass"
+faults = []
+reports = ["signature: required signing has not been checked."]
+required-step = "signing required"
+verification-status = "not checked"
