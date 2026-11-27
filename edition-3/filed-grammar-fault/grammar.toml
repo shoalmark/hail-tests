@@ -1,0 +1,44 @@
+# Fixture grammar: only the REQUEST row is used by these cases.
+hail-grammar = 1
+name = "case-budget"
+edition = 0
+start = false
+characters = 240
+# No vocabulary check is needed for this line-budget fixture.
+glossary = "none"
+
+[openers."Fact"]
+means = "what was observed, with its value"
+
+[openers."Not done"]
+means = "what was left out or not checked, and why; nothing when nothing was left out"
+
+[openers."Next"]
+means = "the sender's own next act, or who acts next and on what condition"
+
+[openers."Correction"]
+means = "the wrong value and its replacement in the hail named by re"
+
+[openers."Say again"]
+means = "the wanted part of the hail named by re: a source number, body line number or header name"
+
+[markers]
+"INFORMATION" = {lines = 0, allow = [], require = []}
+"ADVICE" = {lines = 0, allow = [], require = []}
+"WARNING" = {lines = 0, allow = [], require = []}
+"QUESTION" = {lines = 0, allow = [], require = []}
+"ANSWER" = {lines = 0, allow = [], require = []}
+"REQUEST" = {lines = 3, allow = ["Fact"], require = []}
+"STOP" = {lines = 0, allow = [], require = []}
+"RECEIVED" = {lines = 0, allow = [], require = []}
+"WILCO" = {lines = 0, allow = [], require = []}
+"DECLINED" = {lines = 0, allow = [], require = []}
+"DONE" = {lines = 0, allow = [], require = []}
+"START" = {lines = 0, allow = [], require = []}
+"END" = {lines = 0, allow = [], require = []}
+"CLAIM" = {lines = 0, allow = [], require = []}
+"RELEASE" = {lines = 0, allow = [], require = []}
+"FORCED END" = {lines = 0, allow = [], require = []}
+"AWAY" = {lines = 0, allow = [], require = []}
+"BACK" = {lines = 0, allow = [], require = []}
+"DECISION" = {lines = 0, allow = [], require = []}

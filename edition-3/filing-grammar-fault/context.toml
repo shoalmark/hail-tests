@@ -1,3 +1,4 @@
 filed = false
-grammar = "swe"
-grammar-file = "hail-grammar/swe.toml"
+grammar = "case-budget"
+# grammar-file is relative to this case folder at the vector commit.
+grammar-file = "grammar.toml"
