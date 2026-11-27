@@ -1,0 +1,4 @@
+rule = "G4"
+base = "swe"
+kind = "grammar"
+edits = [{ "op" = "set", "path" = ["openers", "Test"], "value" = { "means" = "a reproducible check procedure that the sender offers for another reader to run" } }]
