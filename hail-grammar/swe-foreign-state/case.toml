@@ -1,0 +1,6 @@
+rule = "G6"
+base = "swe"
+kind = "body"
+marker = "DONE"
+re = "b.lead-20261127T0959Z-234bcd"
+body = ["State: The page is reviewed."]

@@ -1,0 +1,7 @@
+rule = "G6"
+base = "swe"
+kind = "body"
+marker = "REQUEST"
+re = "none"
+body = ["Fact: The observed count is 8.", "Fact: The observed count is 8.", "Fact: The observed count is 8.", "Fact: The observed count is 8."]
+ask = "Read the result."
