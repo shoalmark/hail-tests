@@ -1,4 +1,4 @@
 rule = "E12"
 checks = ["record-grammar-effect"]
-about = "A grammar fault is reported without voiding a landed hail."
+about = "The same complete four-line body is checked against the pinned starting grammar; filing state determines refusal or reporting."
 effect = "unchanged"
