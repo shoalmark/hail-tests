@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "g-shape"
+location = "grammar openers.Verdict.words"
+match = "exact"
+line = "grammar openers.Verdict.words: [g-shape] key is not part of this edition; remove words."

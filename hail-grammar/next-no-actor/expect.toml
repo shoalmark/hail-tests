@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "g-use"
+location = "body line 1"
+match = "exact"
+line = "body line 1: [g-use] Next does not carry its declared meaning; write the sender's own next act, or who acts next and on what condition."

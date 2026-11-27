@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "g-preserve"
+location = "body line 1"
+match = "exact"
+line = "body line 1: [g-preserve] protected text `ok()` was lost or changed; restore `ok()` with its original scope and bytes."

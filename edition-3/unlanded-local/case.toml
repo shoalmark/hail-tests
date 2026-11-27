@@ -1,4 +1,3 @@
 rule = "E7"
 checks = ["landing"]
 about = "No message effect before remote default-branch filing."
-effect = "none"

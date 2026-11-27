@@ -1,1 +1,0 @@
-body line 1: [g-preserve] protected text src/lib.rs was lost or changed; restore src/lib.rs with its original scope and bytes.

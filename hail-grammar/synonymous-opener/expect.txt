@@ -1,1 +1,0 @@
-grammar openers.Seen.means: [g-meaning] Seen means the same as Fact; remove Seen or give it a distinct meaning.

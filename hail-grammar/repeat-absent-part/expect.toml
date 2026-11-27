@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "g-part"
+location = "body line 1"
+match = "exact"
+line = "body line 1: [g-part] named part does not exist; write an existing source number, body line or header name."

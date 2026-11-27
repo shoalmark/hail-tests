@@ -2,4 +2,3 @@ rule = "G4"
 base = "swe"
 kind = "grammar"
 edits = [{ "op" = "set", "path" = ["openers", "Seen"], "value" = { "means" = "an observed condition and its measured value" } }]
-schema = "pass"

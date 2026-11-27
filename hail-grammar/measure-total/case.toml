@@ -8,6 +8,3 @@ grammar_session_characters = [400, 400]
 correction_hails = 1
 repeat_hails = 1
 both_hails = 1
-exchange_characters = 440
-grammar_characters = 800
-rates = ["100/3", "100/3", "100/3"]

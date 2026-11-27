@@ -1,5 +1,14 @@
+format = 2
 verdict = "refuse"
-faults = ["settings teams.a.signing-required: false contradicts required roster signing; write true or omit signing-required."]
-reports = []
 required-step = "signing required"
 verification-status = "signed"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-roster-signing"
+location = "settings teams.a.signing-required"
+match = "content"
+problem-content = "false contradicts required roster signing"
+repair-content = ["Write signing-required = true or omit the flag; a governing roster requires signing."]
+example = "settings teams.a.signing-required: false contradicts required roster signing; write true or omit signing-required."

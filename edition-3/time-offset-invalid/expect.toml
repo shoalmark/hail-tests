@@ -1,3 +1,12 @@
+format = 2
 verdict = "refuse"
-faults = ["header written-against: offset hour 24 is outside 00 through 23; write Z or an offset within the allowed range."]
+fault-count = 1
 reports = []
+
+[[faults]]
+code = "h-time-offset"
+location = "header written-against"
+match = "content"
+problem-content = "offset hour 24 is outside 00 through 23"
+repair-content = ["Write Z or a numeric offset with hour 00–23 and minute 00–59."]
+example = "header written-against: offset hour 24 is outside 00 through 23; write Z or an offset within the allowed range."

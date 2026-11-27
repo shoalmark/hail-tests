@@ -1,3 +1,10 @@
+format = 2
 verdict = "refuse"
-faults = ["notification: message content is outside the landed hail; write only its repository, filing commit, file path and addressee."]
+fault-count = 1
 reports = []
+
+[[faults]]
+code = "h-notification"
+location = "notification"
+match = "exact"
+line = "notification: message is not solely a complete landed record reference; write only its repository, filing commit, file path and addressee."

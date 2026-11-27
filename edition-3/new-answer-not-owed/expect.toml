@@ -1,3 +1,7 @@
+format = 2
 verdict = "pass"
+new = true
+owed = []
+fault-count = 0
 faults = []
 reports = []

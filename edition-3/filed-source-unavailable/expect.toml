@@ -1,3 +1,9 @@
+format = 2
 verdict = "pass"
+effect = "unchanged"
+fault-count = 0
 faults = []
-reports = ["source 1: committed bytes are unavailable; obtain the named revision to check the source."]
+
+[[reports]]
+code = "filed-source-unavailable"
+example = "source 1: committed bytes are unavailable; obtain the named revision to check the source."

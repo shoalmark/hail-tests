@@ -1,0 +1,11 @@
+format = 2
+verdict = "refuse"
+schema = "pass"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "g-meaning"
+location = "grammar openers.Seen.means"
+match = "exact"
+line = "grammar openers.Seen.means: [g-meaning] Seen means the same as Fact; remove Seen or give it a distinct meaning."

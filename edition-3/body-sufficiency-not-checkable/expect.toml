@@ -1,3 +1,8 @@
+format = 2
 verdict = "pass"
+fault-count = 0
 faults = []
-reports = ["body: sufficiency to decide cannot be checked by a reader."]
+
+[[reports]]
+code = "body-sufficiency-not-checkable"
+example = "body: sufficiency to decide cannot be checked by a reader."

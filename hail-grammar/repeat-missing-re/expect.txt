@@ -1,1 +1,0 @@
-header re: [g-repeat-re] repetition names no single hail; write the received hail's id.

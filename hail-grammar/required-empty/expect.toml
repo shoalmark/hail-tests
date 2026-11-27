@@ -1,0 +1,16 @@
+format = 2
+verdict = "refuse"
+fault-count = 2
+reports = []
+
+[[faults]]
+code = "g-required"
+location = "header marker"
+match = "exact"
+line = "header marker: [g-required] DECLINED requires Not done; add Not done: followed by one space and what was left out or not checked, and why; nothing when nothing was left out."
+
+[[faults]]
+code = "g-empty"
+location = "body line 1"
+match = "exact"
+line = "body line 1: [g-empty] Not done has no statement; write Not done: followed by one space and what was left out or not checked, and why; nothing when nothing was left out."

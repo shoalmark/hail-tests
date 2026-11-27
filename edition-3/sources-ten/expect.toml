@@ -1,3 +1,13 @@
+format = 2
 verdict = "refuse"
-faults = ["header sources: count 10 is outside 0 through 9; write sources: 9 or fewer and retain only those source lines."]
-reports = ["body: body and citation checks not run because the source count is invalid."]
+fault-count = 1
+
+[[faults]]
+code = "h-source-count"
+location = "header sources"
+match = "exact"
+line = "header sources: count 10 is outside 0 through 9; write sources: 9 or fewer and retain only those source lines."
+
+[[reports]]
+code = "source-count-not-checked"
+example = "body: body and citation checks not run because the source count is invalid."

@@ -1,3 +1,5 @@
+format = 2
 verdict = "pass"
+fault-count = 0
 faults = []
 reports = []

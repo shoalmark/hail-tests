@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "g-allow"
+location = "body line 1"
+match = "exact"
+line = "body line 1: [g-allow] Fact is not allowed on WILCO; write one of \"Next:\" = \"the sender's own next act, or who acts next and on what condition\" with one space after the colon and a statement of that meaning; if none fits, remove this line and preserve its meaning in a hail whose marker allows it."

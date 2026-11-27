@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "g-common-missing"
+location = "grammar openers.Say again"
+match = "exact"
+line = "grammar openers.Say again: [g-common-missing] common opener Say again is missing; add [openers.\"Say again\"] with means = \"the wanted part of the hail named by re: a source number, body line number or header name\"."

@@ -1,3 +1,12 @@
+format = 2
 verdict = "refuse"
-faults = ["record home: this edition defines no repository move; keep the existing home and seek an edition that defines the move."]
+fault-count = 1
 reports = []
+
+[[faults]]
+code = "h-record-home"
+location = "record home"
+match = "content"
+problem-content = "this edition defines no repository move"
+repair-content = ["Keep the existing record home and its history readable; wait for an edition defining a move."]
+example = "record home: this edition defines no repository move; keep the existing home and seek an edition that defines the move."

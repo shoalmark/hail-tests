@@ -1,1 +1,0 @@
-body line 1: [g-sentence] STOP or WARNING needs a whole sentence; write the statement as a complete sentence after its opener.

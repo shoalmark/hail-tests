@@ -4,7 +4,7 @@ This branch holds unsigned draft data, not a signed edition or a checker impleme
 
 The current third-edition cases are in [edition-3/](edition-3/README.md); the testable grammar cases
 are in [hail-grammar/](hail-grammar/README.md). Each new case names the rule it holds. Current expected
-faults are complete actionable lines, not the earlier runner's first-failure code. The changed-case
+faults have separate codes and locations, with exact lines or required repair content as each suite's README defines. The changed-case
 manifest selects exactly the cases for the second implementation; there is no claim that a historical
 runner already understands these data files.
 

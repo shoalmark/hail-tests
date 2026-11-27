@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "g-lines"
+location = "body line 4"
+match = "exact"
+line = "body line 4: [g-lines] REQUEST allows at most 3 body lines; remove or combine 1 line without dropping meaning."

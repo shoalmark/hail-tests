@@ -1,1 +1,0 @@
-grammar openers.Verdict.words: [g-shape] key is not part of this edition; remove words.

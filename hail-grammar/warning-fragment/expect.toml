@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "g-sentence"
+location = "body line 1"
+match = "exact"
+line = "body line 1: [g-sentence] STOP or WARNING needs a whole sentence; write the statement as a complete sentence after its opener."

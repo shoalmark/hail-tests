@@ -1,2 +1,0 @@
-header re: [g-correction-re] correction names no single hail; write the corrected hail's id.
-body line 1: [g-correction] correction lacks the wrong or right value; name the wrong value and give its replacement.

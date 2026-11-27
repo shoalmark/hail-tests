@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "g-part"
+location = "body line 1"
+match = "exact"
+line = "body line 1: [g-part] wanted part is not identified; write source N, body line N or header key of the received hail."

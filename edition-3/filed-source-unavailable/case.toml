@@ -1,4 +1,3 @@
 rule = "E2"
 checks = ["record-source-effect"]
 about = "A later unavailable target reports a fault without voiding a filed hail."
-effect = "unchanged"

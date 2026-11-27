@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "g-toml"
+location = "grammar file"
+match = "exact"
+line = "grammar file: [g-toml] TOML cannot be read; write a UTF-8 TOML file with unique keys."

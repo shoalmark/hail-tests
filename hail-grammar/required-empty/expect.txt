@@ -1,2 +1,0 @@
-header marker: [g-required] DECLINED requires Not done; add Not done: followed by one space and what was left out or not checked, and why; nothing when nothing was left out.
-body line 1: [g-empty] Not done has no statement; write Not done: followed by one space and what was left out or not checked, and why; nothing when nothing was left out.

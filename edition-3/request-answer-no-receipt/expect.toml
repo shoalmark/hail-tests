@@ -1,3 +1,7 @@
+format = 2
 verdict = "pass"
+owed = ["DECLINED or WILCO then DONE or DECLINED"]
+clock = true
+fault-count = 0
 faults = []
 reports = []

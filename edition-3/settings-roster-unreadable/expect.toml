@@ -1,3 +1,12 @@
+format = 2
 verdict = "refuse"
-faults = ["settings roster: governing state is unreadable; supply the counted roster state before filing."]
+fault-count = 1
 reports = []
+
+[[faults]]
+code = "h-roster-unreadable"
+location = "settings roster"
+match = "content"
+problem-content = "governing state is unreadable"
+repair-content = ["Supply the readable counted governing roster before filing; do not use hail.toml as a fallback."]
+example = "settings roster: governing state is unreadable; supply the counted roster state before filing."

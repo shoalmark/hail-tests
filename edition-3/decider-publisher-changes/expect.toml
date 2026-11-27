@@ -1,3 +1,10 @@
+format = 2
 verdict = "refuse"
-faults = ["source 1: publisher changed the decider’s signed bytes; publish the original signed file unchanged."]
+fault-count = 1
 reports = []
+
+[[faults]]
+code = "h-publisher-bytes"
+location = "source 1"
+match = "exact"
+line = "source 1: publisher changed the decider’s signed bytes; publish the original signed file unchanged."

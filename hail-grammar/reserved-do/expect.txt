@@ -1,1 +1,0 @@
-grammar openers.Do: [g-reserved] Do is not an opener of this edition; remove Do and state the work and its bounds in an allowed line.

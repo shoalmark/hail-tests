@@ -1,3 +1,10 @@
+format = 2
 verdict = "refuse"
-faults = ["header pointer: this edition has one source list; remove pointer and put any reference in the numbered sources."]
+fault-count = 1
 reports = []
+
+[[faults]]
+code = "h-pointer"
+location = "header pointer"
+match = "exact"
+line = "header pointer: this edition has one source list; remove pointer and put any reference in the numbered sources."

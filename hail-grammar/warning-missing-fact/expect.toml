@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "g-required"
+location = "header marker"
+match = "exact"
+line = "header marker: [g-required] WARNING requires Fact; add Fact: followed by one space and what was observed, with its value."

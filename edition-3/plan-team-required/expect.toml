@@ -1,3 +1,12 @@
+format = 2
 verdict = "refuse"
-faults = ["header matter: plan has no team; write plan: followed by the exact team key."]
+fault-count = 1
 reports = []
+
+[[faults]]
+code = "h-plan-team"
+location = "header matter"
+match = "content"
+problem-content = "plan has no team"
+repair-content = ["Write plan: followed by the exact team key; other permitted matter forms may also be named."]
+example = "header matter: plan has no team; write plan: followed by the exact team key."

@@ -1,3 +1,10 @@
+format = 2
 verdict = "refuse"
-faults = ["source 1: repository name work is not listed; use a listed name or have the record settings list work."]
+fault-count = 1
 reports = []
+
+[[faults]]
+code = "h-repository"
+location = "source 1"
+match = "exact"
+line = "source 1: repository name work is not listed; use a listed name or have the record settings list work."

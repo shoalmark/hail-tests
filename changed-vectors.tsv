@@ -15,6 +15,7 @@ edition-3/grammar-sender-override	E4
 edition-3/information-no-receipt	E10
 edition-3/information-receipt	E10
 edition-3/new-answer-not-owed	E13
+edition-3/notification-generic-only	E7
 edition-3/notification-reference-only	E7
 edition-3/notification-with-result	E7
 edition-3/owner-return-exempt	E9
@@ -42,6 +43,9 @@ edition-3/signing-off	E9
 edition-3/signing-old-hail	E9
 edition-3/signing-on	E9
 edition-3/signing-roster	E9
+edition-3/signing-roster-false	E9
+edition-3/signing-roster-omitted	E9
+edition-3/signing-unchecked	E9
 edition-3/source-commit-only	E2
 edition-3/source-hash-required	E2
 edition-3/source-hash-valid	E2
@@ -127,7 +131,3 @@ hail-grammar/unknown-marker-information	G10
 hail-grammar/warning-fragment	G5
 hail-grammar/warning-missing-fact	G10
 hail-grammar/zero-line-control	G10
-edition-3/signing-unchecked	E9	added
-edition-3/signing-roster-omitted	E9
-edition-3/signing-roster-false	E9
-edition-3/notification-generic-only	E7
