@@ -1,0 +1,3 @@
+rule = "E7"
+checks = ["notification"]
+about = "A transport carries only the landed hail reference."

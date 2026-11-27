@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["notification: message content is outside the landed hail; write only its repository, filing commit, file path and addressee."]
+reports = []
