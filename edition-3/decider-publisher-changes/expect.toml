@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["source 1: publisher changed the decider’s signed bytes; publish the original signed file unchanged."]
+reports = []
