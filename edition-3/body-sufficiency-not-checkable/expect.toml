@@ -1,0 +1,3 @@
+verdict = "pass"
+faults = []
+reports = ["body: sufficiency to decide cannot be checked by a reader."]

@@ -1,0 +1,3 @@
+rule = "E8"
+checks = ["form", "sufficiency-limit"]
+about = "A structural pass does not certify the writer’s sufficiency rule."
