@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["record home: this edition defines no repository move; keep the existing home and seek an edition that defines the move."]
+reports = []
