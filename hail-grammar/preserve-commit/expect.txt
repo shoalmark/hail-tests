@@ -1,0 +1,1 @@
+body line 1: [g-preserve] protected text abcdef0 was lost or changed; restore abcdef0 with its original scope and bytes.
