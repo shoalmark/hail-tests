@@ -7,4 +7,4 @@ reports = []
 code = "h-source-form"
 location = "source 1"
 match = "exact"
-line = "source 1: not-a-reference is not a well-formed source value; write name@commit or name:path@commit or name:path@commit:first-last; use a listed name, a relative path of nonempty /-separated ASCII letter, digit, ., _ or - segments (not . or ..), and unique 7 to 64 lower-case hex commit ids; range numbers are positive decimal without leading zeros; only name:path@commit may append sha256 H with H equal to the whole file's 64 lower-case hex hash."
+line = "source 1: not-a-reference is not a well-formed source value; write name@commit or name:path@commit or name:path@commit:first-last or name:path@commit:first-last label; use a listed name, a relative path of nonempty /-separated ASCII letter, digit, ., _ or - segments (not . or ..), and unique 7 to 64 lower-case hex commit ids; range numbers are positive decimal without leading zeros; label is one word without whitespace or controls; only name:path@commit may append sha256 H with H equal to the whole file's 64 lower-case hex hash."

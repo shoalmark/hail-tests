@@ -1,0 +1,3 @@
+rule = "S4"
+checks = ["form", "sources"]
+about = "The first selected line contains key, not Key. Label matching is byte for byte and case sensitive."

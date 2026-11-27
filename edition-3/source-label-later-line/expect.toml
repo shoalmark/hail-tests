@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-source-label-text"
+location = "source 1"
+match = "exact"
+line = "source 1: label key is absent from first line 1 of the range; write name:path@commit:first-last label with the label copied from that first line, or name:path@commit:first-last without a label."

@@ -55,9 +55,12 @@ edition-3/source-file-pass	S2
 edition-3/source-hash-required	E2
 edition-3/source-hash-valid	E2
 edition-3/source-hash-wrong	E2
-edition-3/source-malformed	S3
-edition-3/source-malformed-hash	S3
-edition-3/source-malformed-path	S3
+edition-3/source-label-case	S4
+edition-3/source-label-later-line	S4
+edition-3/source-label-pass	S4
+edition-3/source-malformed	S4
+edition-3/source-malformed-hash	S4
+edition-3/source-malformed-path	S4
 edition-3/source-missing-file	S2
 edition-3/source-no-commit	E12
 edition-3/source-range-binary	S3
