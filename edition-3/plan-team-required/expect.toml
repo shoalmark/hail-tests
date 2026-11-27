@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["header matter: plan has no team; write plan: followed by the exact team key."]
+reports = []
