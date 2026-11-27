@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "reserved-marker"
+reports = []
+about = "C.1 with marker INSTRUCTION, which has no act in this edition (§4)"

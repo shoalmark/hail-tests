@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "secret"
+about = "A secret the given pattern set finds in the pointed-at file is refused (§1 \"not in its header, its body or the content its pointer names\"; §11; test 60)"

@@ -1,0 +1,12 @@
+hail/1
+from: owner desktop
+to: org.coordinator s1
+id: owner-20261115T1017Z-9t70kw
+re: org.coordinator-20261115T1015Z-pxm2zd
+marker: DECISION
+written-against: 2026-11-15T10:17:00+00:00
+answer: maybe
+scope: once
+pointer: r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:records/org/org.coordinator-20261115T1015Z-pxm2zd.txt sha256 5ff1b2e7029c69cba579210b96acb0d76ae06aa78fb8b0e5f6c08dae01d6c1eb
+Do the small check now.
+end hail/1

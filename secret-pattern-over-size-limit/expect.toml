@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "secret-pattern"
+about = "A pattern whose compiled form exceeds the size limit refuses the hail: the set is input, and compiling it is bounded (§11 \"the versioned secret-pattern set given as an input\")"

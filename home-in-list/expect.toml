@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "home-path"
+about = "A home-path form inside the list's own bytes, beginning a path after a space in a listed name, is refused: the list is scanned as well as the files it names (§11 \"hash and scan the list and every file it names\"; test 75)"

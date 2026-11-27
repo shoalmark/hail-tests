@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "roster-unreadable"
+about = "The same roster read whole by the check: sealanes/1's reader refuses the roster for that grant's inapplicable key, so every right is refused (§8)"

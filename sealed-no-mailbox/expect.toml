@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "sealed-span"
+reports = []
+about = "C.31's span without its to-mailbox line (§9a)"

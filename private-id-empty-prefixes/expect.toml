@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "secrets-not-checked"]
+about = "An empty prefix list finds no private id, and blocks no public-bound hail on that ground (§11 \"an empty list finds none\"; test 76)"

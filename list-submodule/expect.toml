@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-entry"
+about = "A listed path that is a submodule is refused (§3 \"No ... submodule is allowed\"; §11, test 103)"

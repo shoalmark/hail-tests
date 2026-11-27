@@ -1,0 +1,27 @@
+destination = "public"
+private-id-prefixes = ["RV-", "SP-"]
+home = []
+
+[secret-patterns]
+version = "2026-11"
+patterns = ["HAILTESTSECRET0A1B2C"]
+
+[limits]
+location-bytes = 4096
+line-bytes = 1024
+listed-files = 2
+message-bytes = 16384
+
+[[repository]]
+origin = "forge.example/a/records"
+head = "fe05bcdcdc4928012781a5f1a2a77cbb5398e106"
+
+[[repository.commit]]
+id = "fe05bcdcdc4928012781a5f1a2a77cbb5398e106"
+tree = [
+    { path = "content", kind = "tree" },
+    { path = "content/SHA256SUMS", kind = "file", bytes = "b0" },
+    { path = "content/a.md", kind = "file", bytes = "b1" },
+    { path = "content/b.md", kind = "file", bytes = "b2" },
+    { path = "content/c.md", kind = "file", bytes = "b3" },
+]

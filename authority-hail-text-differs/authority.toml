@@ -1,0 +1,8 @@
+repository = "https://forge.example/org/records"
+commit = "6b1f3c0a9d2e4f5a6b7c8d9e0f1a2b3c4d5e6f70"
+default-branch = "main"
+mode = "check"
+
+[[edition]]
+commit = "4f2a9c1e0b7d3a5f6c8e9d0a1b2c3d4e5f607182"
+edition = 2

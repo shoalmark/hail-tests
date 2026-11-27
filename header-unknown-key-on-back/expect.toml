@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "unknown-key"
+about = "An unknown key on the Owner's signed BACK carries authority and is refused, as on a DECISION (§2, §3; signature §9)."

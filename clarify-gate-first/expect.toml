@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "clarify-order"
+reports = []
+about = "C.15 whose clarify names the gate before the raising bot (§3, §10b)"

@@ -1,0 +1,15 @@
+hail/1
+from: a.planner s1
+to: owner
+id: a.planner-20261115T1040Z-q8a7ng
+re: none
+marker: QUESTION
+written-against: 2026-11-15T10:40:00+00:00
+kind: owner-act
+why: Only the Owner can widen the scope.
+clarify: a.planner
+decide-by: 2026-11-16T10:40:00+00:00
+pointer: none
+The team may keep the small check within its current scope.
+ask: Do you widen the scope to the small check?
+end hail/1

@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "retired"
+reports = []
+about = "C.6 with handover, a retired key: a session handover is content (§3; §11 test 34)"

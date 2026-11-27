@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "reach"
+about = "a.builder-1's RECEIVED to the decider for C.29, which was addressed to a.planner: a wrong recipient gains no right (§8; §11, test 105)"

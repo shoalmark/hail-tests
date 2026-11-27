@@ -1,0 +1,10 @@
+[roster]
+edition = 1
+spec = "sealanes/1"
+
+[roster.from]
+commit = "2c4e6a8b0d1f3a5c7e9b1d3f5a7c9e1b3d5f7a90"
+path = "roster.toml"
+repo = "https://forge.example/org/records"
+sha256 = "dd6653e9310ea56a61ed3d98e76ce8dabb4d71e4a3c98c91297d4d5ef38fce0a"
+slice-sha256 = "558e459f24a1fbcc34108e31cc2013d71eff69cd799b3a662fca122013fffb3c"

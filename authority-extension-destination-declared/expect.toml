@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only"]
+about = "C.1 against a roster whose public destination is a declared record's origin, written with `.git`: it compares as sealanes/1 compares origins, and passes (the key table)"

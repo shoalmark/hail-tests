@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-path"
+about = "A listed path with a `..` segment that escapes the list's folder is refused (§3 \"No absolute path, drive path, empty, `.` or `..` segment\"; §11, test 103)"

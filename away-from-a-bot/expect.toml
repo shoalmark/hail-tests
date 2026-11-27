@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "reserved-marker"
+reports = []
+about = "C.27 sent by the coordinator: AWAY is only the Owner's (§4, §10b)"

@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "key-not-allowed"
+reports = []
+about = "C.1 with outcome: on a WARNING (§3; §11 test 35)"

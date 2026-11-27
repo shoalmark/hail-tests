@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "unknown-marker"]
+about = "C.1 with marker NUDGE, neither defined nor reserved: read as INFORMATION and never acted on (§2; §11 test 70)"

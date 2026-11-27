@@ -1,0 +1,9 @@
+hail/1
+from: a.builder-1 s1
+to: person.m1
+id: a.builder-1-20261115T1041Z-r3c4v1
+re: person.m1-20261115T1029Z-zepwv9
+marker: RECEIVED
+written-against: 2026-11-15T10:41:00+00:00
+pointer: none
+end hail/1

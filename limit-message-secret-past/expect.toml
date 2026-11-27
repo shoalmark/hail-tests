@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "message-limit"
+about = "Two hails in one message: the second hail's file holds a secret and lies wholly past the message limit, so it is refused by the limit, never scanned for the secret. hail check's own limit, given in the scan policy (§11 \"scan policy as explicit inputs\")"

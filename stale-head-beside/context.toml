@@ -1,0 +1,21 @@
+destination = "public"
+private-id-prefixes = ["RV-", "SP-"]
+home = []
+
+[limits]
+location-bytes = 4096
+line-bytes = 1024
+listed-files = 16
+message-bytes = 16384
+
+[[repository]]
+origin = "forge.example/a/records"
+head = "ad782ecdac770fc6eb9a62e44f90873fb97fb26b"
+ancestors = ["aa8c41330509455ee5679d04ed41535d280d9a89"]
+
+[[repository.commit]]
+id = "fe05bcdcdc4928012781a5f1a2a77cbb5398e106"
+tree = [
+    { path = "content", kind = "tree" },
+    { path = "content/lane.md", kind = "file", bytes = "b0" },
+]

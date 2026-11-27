@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider"]
+about = "C.2 where a.reviewer-1's only `hail.message` to a.planner holds until 2026-12-01, with a reference time before that: the grant holds at that time (§8, grants resolved by sealanes/1; §11)"

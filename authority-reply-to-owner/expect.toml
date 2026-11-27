@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only"]
+about = "A lead's unsigned RECEIVED to the Owner's own verified hail to it: a reply to the Owner needs no `hail.owner` (§8; §11, test 105)"

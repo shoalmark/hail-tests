@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "ask-forbidden"
+reports = []
+about = "C.6 with marker NUDGE: read as INFORMATION, which forbids its ask line (§2, §3; §11 test 70)"

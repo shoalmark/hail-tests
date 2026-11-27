@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "edition"
+about = "C.1 against a roster with no `ext.hail`: the state in force adopts no edition of hail/1, so no hail act has a right (§8; Status)"

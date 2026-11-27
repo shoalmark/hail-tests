@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only"]
+about = "The same hail with no inputs for the context row: the row is reported as not checked, and its pointer is not resolved (§11, test 100)"

@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "header-line"
+reports = []
+about = "C.6 with the key From: a key is lower-case letters and hyphens, and keys are case-sensitive (§3; §11 test 68)"

@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "written-time"
+reports = []
+about = "C.6 whose written-against holds two times: exactly one (§3)"

@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "secrets-not-checked", "private-ids-not-checked"]
+about = "No destination is given: the private-id scan is not made, and the run says so though a private id is in the body (§11 \"omitted inputs never give a full pass\"; test 100)"

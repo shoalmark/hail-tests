@@ -1,0 +1,7 @@
+private-id-prefixes = []
+
+[limits]
+location-bytes = 4096
+line-bytes = 1024
+listed-files = 16
+message-bytes = 16384

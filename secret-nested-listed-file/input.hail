@@ -1,0 +1,12 @@
+hail/1
+from: a.planner s1
+to: a.builder-1
+id: a.planner-20261118T1000Z-ks8d3c
+re: none
+marker: REQUEST
+written-against: r-273379885da9148f489c2183ffb4ca60b5a91b090b9176e9a749b964fe8be7b8@fe05bcdcdc49 · 2026-11-18T10:00:00+00:00
+matter: tracker:r-273379885da9148f489c2183ffb4ca60b5a91b090b9176e9a749b964fe8be7b8:AA-4
+pointer: r-273379885da9148f489c2183ffb4ca60b5a91b090b9176e9a749b964fe8be7b8:content/SHA256SUMS sha256 8034ad17be007dacaea70000415bce04d982be58787f9d752f1ef14e8cae9f89
+Build lane 4 from the brief behind the pointer.
+ask: Either decline, or send WILCO and then DONE with the result.
+end hail/1

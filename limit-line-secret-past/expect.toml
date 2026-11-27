@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "line-limit"
+about = "A line of a pointed file whose secret begins just past the line limit is refused by the limit, never matched: hail check's own limit, given in the scan policy (§11 \"scan policy as explicit inputs\")"

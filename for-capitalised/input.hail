@@ -1,0 +1,13 @@
+hail/1
+from: a.planner s1
+to: org.coordinator
+id: a.planner-20261115T1013Z-7eqxmv
+re: none
+marker: QUESTION
+written-against: 2026-11-15T10:13:00+00:00
+for: Owner
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+pointer: r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:content/lane-4.md sha256 9e7287b5dbf9e2233df2814074dd91fe823ed5684cc2c15e2d4b63e63a7863dc
+Both options fit the grants; the choice belongs to the Owner.
+ask: Ask the Owner whether to do the small check now or keep it queued.
+end hail/1

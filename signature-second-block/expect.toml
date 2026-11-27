@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "second-signature"
+reports = []
+about = "C.6 with its signature block given twice: a second block is not part of this edition's form (§2, §9; §11 test 25)"

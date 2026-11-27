@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "not-checked-authority", "contents-not-checked"]
+about = "C.31's sealed span alone, given the authority row's inputs: its contents are not opened, so the row is not checked for it (§9a; §11, test 80)"

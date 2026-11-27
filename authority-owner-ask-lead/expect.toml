@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "reach"
+about = "An unsigned Owner-ask from a lead whose coordinator is present: a lead holds `hail.owner` only while its coordinator is away, and no away evidence is given, which counts present (§0, §8, §10b; §11, tests 14 and 95)"

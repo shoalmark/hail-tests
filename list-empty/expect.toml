@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-empty"
+about = "An empty SHA256SUMS list is refused (§3 \"An empty list, malformed line, missing file or wrong hash is refused\"; §11, test 103)"

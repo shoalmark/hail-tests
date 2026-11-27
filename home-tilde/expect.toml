@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "secrets-not-checked"]
+about = "A ~/ path passes the home-path test on a public route (§11 \"A `~/` path passes this test\"; test 75)"

@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "sealed-span"
+reports = []
+about = "C.31's span with one armor line inside the block a character short: the age v1 format, which §9a names, wraps its armor at 64 columns (§9a)"

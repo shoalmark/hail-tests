@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "key-not-allowed"
+reports = []
+about = "C.17 with harm-by and no urgent: harm-by stands only beside urgent (§3)"

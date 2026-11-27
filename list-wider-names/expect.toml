@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "secrets-not-checked"]
+about = "A SHA256SUMS list names files whose paths hold a space and non-ASCII letters; each is hashed at the written-against revision, and it passes (§3 \"Hash lists\"; §11, test 103)"

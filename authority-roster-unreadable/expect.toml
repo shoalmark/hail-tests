@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "roster-unreadable"
+about = "C.1 against Appendix B's roster read with no default branch: a reader that can't read the chain to a counted state refuses every right (§8)"

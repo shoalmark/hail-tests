@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "future-time"
+reports = []
+about = "C.6 against an entering commit's committer time a day before its written time (§11)"

@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "secrets-not-checked"]
+about = "pointer: none, with the row's inputs given: the header, body and ask are scanned, and the row is not reported as not checked (§3; §11)"

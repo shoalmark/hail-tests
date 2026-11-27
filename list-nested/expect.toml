@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "secrets-not-checked"]
+about = "A list names another list, which names a file; every file at both levels is hashed at the same revision, and it passes (§3 \"A list named by a list follows these same rules at the same revision\"; §11, test 103)"

@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "signer"
+about = "C.29 against a roster where m1's key is another one: a person's hail signed with a key that is not that person's is refused (§9; §11, test 42)"

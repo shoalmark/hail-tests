@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "namespace"
+about = "C.16 signed in the `git` namespace: `git` fails on a DECISION (§9; §11, test 24)"

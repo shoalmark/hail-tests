@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "reach"
+about = "a.planner's unsigned INFORMATION to the decider, answering nothing: the reply rule gives no unsolicited message (§8; §11, test 105)"

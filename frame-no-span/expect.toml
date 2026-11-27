@@ -1,0 +1,3 @@
+verdict = "not-judged"
+reports = []
+about = "A message with no frame line at all holds no hail; everything outside a span is ignored (§2)"

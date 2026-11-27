@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "extension"
+about = "C.1 against a whole roster whose public destination is no declared place or record: refused (the key table, `public-destinations`)"

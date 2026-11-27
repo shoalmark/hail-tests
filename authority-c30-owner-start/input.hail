@@ -1,0 +1,20 @@
+hail/1
+from: owner desktop
+to: org.coordinator
+id: owner-20261115T1030Z-113mj3
+re: none
+marker: START
+written-against: 2026-11-15T10:30:00+00:00
+bot: org.coordinator
+session: c2
+matter: thread:org.coordinator-20261115T1017Z-b6xh68
+waiting: This concern remains open for the coordinator and is unheld.
+pointer: none
+The launcher signed this start for the Owner.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgEh7KK3wjAUdWGfaYlIUEFOrqyp
+E3daFc4o3CKmYXEaEAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAEDvBdxOxMl9q+KaF36uHmhndg06SB8QukoshHDdnGLmcG5uJo9fnnr29UKDWn65Jk
+na9f+WwYFFAUvZlM5TMaEG
+-----END SSH SIGNATURE-----

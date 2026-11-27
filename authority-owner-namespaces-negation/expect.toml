@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only"]
+about = "C.19 against Appendix B's roster where the Owner's allowed-signers line changes: the line's `namespaces` is `*,!git`: every namespace but `git`, `hail` among them (§9; sealanes/1 §3.5, git's allowed-signers file)"

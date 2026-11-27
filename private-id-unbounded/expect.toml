@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "secrets-not-checked"]
+about = "Prefix matches with a letter, digit or hyphen beside them, or in another case, are not bounded private ids, and pass (§11 \"with no letter, digit or hyphen on either side ... Matching is case-sensitive\"; test 76)"

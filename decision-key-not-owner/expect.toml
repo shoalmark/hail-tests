@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "decision-form"
+reports = []
+about = "C.21 whose decision names an id that is not the Owner's (§3)"

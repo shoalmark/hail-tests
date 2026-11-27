@@ -1,0 +1,27 @@
+destination = "public"
+private-id-prefixes = ["RV-", "SP-"]
+home = []
+
+[limits]
+location-bytes = 4096
+line-bytes = 1024
+listed-files = 16
+message-bytes = 16384
+
+[[repository]]
+origin = "forge.example/a/records"
+head = "abcdef1aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+
+[[repository.commit]]
+id = "abcdef1aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+tree = [
+    { path = "content", kind = "tree" },
+    { path = "content/lane.md", kind = "file", bytes = "b0" },
+]
+
+[[repository.commit]]
+id = "abcdef1bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+tree = [
+    { path = "content", kind = "tree" },
+    { path = "content/lane.md", kind = "file", bytes = "b0" },
+]

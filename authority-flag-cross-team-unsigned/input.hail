@@ -1,0 +1,10 @@
+hail/1
+from: a.planner s1
+to: b.planner
+id: a.planner-20261115T1040Z-f1a9cr
+re: none
+marker: INFORMATION
+written-against: 2026-11-15T10:40:00+00:00
+pointer: none
+A plain fact for the record.
+end hail/1

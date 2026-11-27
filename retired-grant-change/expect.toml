@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "retired"
+reports = []
+about = "C.15 with kind: grant-change, which this edition refuses (§3)"

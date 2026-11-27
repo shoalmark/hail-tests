@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "time-offset"
+reports = []
+about = "C.6 with its time written in an offset of +24:00: an offset is bounded as the time is, hour 00 to 23 and minute 00 to 59 (§3)"

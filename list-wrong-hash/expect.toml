@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-hash"
+about = "A listed file whose sha256 differs from its line is refused (§3 \"wrong hash is refused\"; §11, test 103)"

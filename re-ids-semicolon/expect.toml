@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "receipt-re"
+about = "A DONE receipt whose re joins ids by a semicolon has a free description, not the id list a receipt must quote (§4 rule 2; §3)"

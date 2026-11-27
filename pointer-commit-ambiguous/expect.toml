@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "pointer-unavailable"
+about = "A pointer commit of seven hex digits matches two commits given, so it does not resolve uniquely: refused (§3 \"A commit in a hail pointer has 7 to 64 hex digits; it must resolve uniquely\"; §11)"

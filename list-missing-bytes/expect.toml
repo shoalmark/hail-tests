@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "pointer-unavailable"
+about = "A listed file proven by its tree entry but whose bytes are not given cannot be obtained, and is refused (§11 \"unavailable bytes or a bad list fails\"; test 60)"

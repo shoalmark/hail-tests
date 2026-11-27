@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "written-against-form"
+reports = []
+about = "C.6 whose written-against commit is upper-case hex (§3; §11 test 68)"

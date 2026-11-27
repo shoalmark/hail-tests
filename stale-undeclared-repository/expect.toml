@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "secrets-not-checked", "head-unknown"]
+about = "written-against names a repository the inputs do not declare: its head is not known, and the warning light is reported as not checked (§3 \"The written-against warning light\"; §11, test 100)"

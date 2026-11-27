@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-missing"
+about = "A listed file with no tree entry at the list's revision is refused (§3 \"missing file ... is refused\"; §11, test 103)"

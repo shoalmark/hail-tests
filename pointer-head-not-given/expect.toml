@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "pointer-unavailable"
+about = "A pointer at the reader's head when no head is given: the bytes cannot be obtained, and it is refused (§3; §11 \"any pointed-at bytes it cannot obtain or verify\")"

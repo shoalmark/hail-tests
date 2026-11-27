@@ -1,0 +1,16 @@
+hail/1
+from: owner desktop
+to: org.coordinator
+id: owner-20261115T1027Z-3vyt0r
+re: none
+marker: AWAY
+written-against: 2026-11-15T10:27:00+00:00
+pointer: none
+The coordinator is away.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg6kpsY+KcUgq+9VB7Ey7F+ZVHdq
+6+vnuSQh7qaRRG0iwAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAECz9TfaWagZD8xrBt++FkvDfXdeQFg6S846ygOmkVVy8i8Ak6JxQ9henHRQ0hNY9N
+j/n+jFbb/SIkJ5xgj9uEIH
+-----END SSH SIGNATURE-----

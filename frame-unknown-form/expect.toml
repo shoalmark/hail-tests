@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "unknown-form"
+reports = []
+about = "A span opened by hail/2, whose header would read under §3: a form the reader cannot read; whether it may reply DECLINED needs the roster (§2, §11 test 71)"

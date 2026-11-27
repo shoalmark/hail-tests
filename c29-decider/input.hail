@@ -1,0 +1,17 @@
+hail/1
+from: person.m1
+to: a.planner
+id: person.m1-20261115T1029Z-zepwv9
+re: none
+marker: INFORMATION
+written-against: 2026-11-15T10:29:00+00:00
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+pointer: none
+The team may keep the small check within its current scope.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg0Ix2Qx4dQEM/jsFkumroTQnOmd
+wY0eVoYW+2LpIBAdEAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAECl3gfoZ2TbvpbQm8Q+MtFrmi37JBvdvXBouA6w6mIWsj5nsVwxa/kYxthxCY1QiV
+x/pmD08jmYIqV3bWm9tK4K
+-----END SSH SIGNATURE-----

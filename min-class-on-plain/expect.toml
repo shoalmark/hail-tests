@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "key-not-allowed"
+reports = []
+about = "C.1 with min-class (§3, §9a; §11 test 79)"

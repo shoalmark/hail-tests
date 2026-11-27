@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "return-grant"
+about = "C.2 against a roster where b.planner lacks `hail.answer` to a.planner, who may message it: the configuration refuses every hail act, this one inside team a too (§8)"

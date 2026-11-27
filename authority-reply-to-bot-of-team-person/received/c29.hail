@@ -1,0 +1,11 @@
+hail/1
+from: person.b1 s1
+to: a.planner
+id: person.b1-20261115T1029Z-zepwv9
+re: none
+marker: INFORMATION
+written-against: 2026-11-15T10:29:00+00:00
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+pointer: none
+The team may keep the small check within its current scope.
+end hail/1

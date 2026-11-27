@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "written-time"
+reports = []
+about = "C.6 with a fraction of a second: no time in the form (§3)"

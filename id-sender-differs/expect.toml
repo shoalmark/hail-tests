@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "id-sender"
+reports = []
+about = "C.6 whose id names a.builder-1 while from names a.planner: the sender prefix matches from (§3; §11 test 55)"

@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "private-id"
+about = "A private id at a line edge is bounded: a body line that is exactly a private id is refused (§11 \"or at a line edge\"; test 76)"

@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "missing-key"
+reports = []
+about = "C.6 without its pointer line: a required key is missing, and the header never ends (§3)"

@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-line"
+about = "A list line with an upper-case hash is malformed and refused (§3 \"Each UTF-8 line is exactly `<64 lower-case hex>  <path>`, followed by LF\"; §11, test 103)"

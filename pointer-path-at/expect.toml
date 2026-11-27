@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "pointer-form"
+reports = []
+about = "C.6 whose pointer path holds an @ (§3; §11 test 74)"

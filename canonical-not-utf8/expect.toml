@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "not-utf8"
+reports = []
+about = "C.6 with a byte that is not UTF-8 in its body: no canonical form can be rebuilt (§9)"

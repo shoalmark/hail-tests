@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "home-path"
+about = "The sending user's own home directory, given as an input, in the body is refused though it is in no listed form (§11 \"or the sending user's own home directory however written\"; test 75)"

@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "unknown-form"
+reports = []
+about = "A span opened by hail/3 sealed: a form the reader cannot read (§2)"

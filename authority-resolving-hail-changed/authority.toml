@@ -1,0 +1,10 @@
+repository = "https://forge.example/org/records"
+commit = "6b1f3c0a9d2e4f5a6b7c8d9e0f1a2b3c4d5e6f70"
+default-branch = "main"
+mode = "bot"
+
+[resolving]
+origin = "https://forge.example/org/records"
+pin = "2c4e6a8b0d1f3a5c7e9b1d3f5a7c9e1b3d5f7a90"
+in-force = "3d5f7b9c1e2a4b6d8f0c2e4a6b8d0f2a4c6e8b01"
+chain = ["2c4e6a8b0d1f3a5c7e9b1d3f5a7c9e1b3d5f7a90", "3d5f7b9c1e2a4b6d8f0c2e4a6b8d0f2a4c6e8b01"]

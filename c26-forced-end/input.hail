@@ -1,0 +1,18 @@
+hail/1
+from: a.planner s1
+to: a.builder-1
+id: a.planner-20261115T1026Z-jnq6h9
+re: none
+marker: FORCED END
+written-against: 2026-11-15T10:26:00+00:00
+bot: a.builder-1
+session: s2
+pointer: none
+The unclaimed session no longer answers; free its slot.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgEbabQscXyJYKw8gx1yWnu+kLnd
+sAkIl73zigKVEbyqcAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAEBTG7wiSQzIzTkwkRs3uTrekcrGHYihS0GSX7mJXXNqXIJfVt9tIgx557qD1xKB/T
+mC+Mz3HgbX8Nfq3/rX4DkE
+-----END SSH SIGNATURE-----

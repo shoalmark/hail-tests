@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "secret"
+about = "A secret in a file the list names, not in the list, is refused (§11, test 103 \"A secret in a listed file fails, not just in the list\")"

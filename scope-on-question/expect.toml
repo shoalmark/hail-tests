@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "key-not-allowed"
+reports = []
+about = "C.15 carrying scope: on a DECISION only (§3; §11 test 39)"

@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-entry"
+about = "A listed path that is a folder, not a regular file, is refused (§3 \"The target MUST be a regular file at that revision\"; §11, test 103)"

@@ -1,0 +1,17 @@
+hail/1
+from: a.planner s1
+to: b.planner
+id: a.planner-20261115T1001Z-473wvx
+re: none
+marker: INFORMATION
+written-against: 2026-11-15T10:01:00+00:00
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+pointer: r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:content/result.md sha256 bb37b06bc40a7e20bc5cbbd2d0adff727ad2b9c5c15a41533724de9d63c31dbe
+Lane 4 is built and released. The result is behind the pointer.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgEbabQscXyJYKw8gx1yWnu+kLnd
+sAkIl73zigKVEbyqcAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAEAlhDJ3BslWg8yCTt3pTfnc8fTTFIw/wCmFkPI+1pIutzoMEuNgewbgGU9chGn0/S
+ROWc04/NS9TcMQs/L9qXQJ
+-----END SSH SIGNATURE-----

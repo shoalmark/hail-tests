@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-revision"
+about = "The list's repository occurs twice in written-against: refused (§3 \"Its repository MUST occur once in written-against\"; §11, test 103)"
