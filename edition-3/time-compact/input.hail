@@ -1,0 +1,10 @@
+hail/1
+from: a.lead s1
+to: b.lead
+id: a.lead-20261127T1000Z-123abc
+re: none
+marker: INFORMATION
+written-against: 2026-11-27T09:00:00-0100
+sources: 0
+8.
+end hail/1
