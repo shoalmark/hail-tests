@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["record owed: record is unreadable; obtain the landed record before beginning matter work."]
+reports = []
