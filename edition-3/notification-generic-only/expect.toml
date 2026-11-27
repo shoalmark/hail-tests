@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["notification: the notice has no landed record reference; replace it with only the repository, filing commit, file path and addressee."]
+reports = []
