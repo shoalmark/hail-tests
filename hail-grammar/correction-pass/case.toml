@@ -1,0 +1,6 @@
+rule = "G3"
+base = "swe"
+kind = "body"
+marker = "INFORMATION"
+re = "b.lead-20261127T0959Z-234bcd"
+body = ["Correction: The count was 7; the right count is 8."]
