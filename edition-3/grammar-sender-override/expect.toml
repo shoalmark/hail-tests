@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["header grammar: senders cannot select a grammar; remove this header and use the record settings."]
+reports = []

@@ -1,0 +1,4 @@
+rule = "E4"
+checks = ["grammar-selection"]
+about = "An omitted grammar setting selects none."
+selected = "none"

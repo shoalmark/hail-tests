@@ -1,0 +1,3 @@
+rule = "E4"
+checks = ["form"]
+about = "No per-hail override of a selected grammar."
