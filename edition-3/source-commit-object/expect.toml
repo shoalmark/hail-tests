@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-source-object"
+location = "source 1"
+match = "exact"
+line = "source 1: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb does not uniquely name a commit object; write name@commit with a unique commit id, retaining any file path or range."

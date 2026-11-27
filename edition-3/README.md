@@ -58,3 +58,25 @@ The selected check covers edition selection, form and byte preservation. Authori
 receipt obligations and time freshness remain outside it. The paired `sources-legacy-header`
 case supplies identical bytes to the current third-edition form check as a new filing and expects
 refusal. Reading the old record grants no right to file those bytes under the new edition.
+
+## Source object inputs
+
+Source cases keep the suite's supplied-fact convention: `context.toml` projects git objects
+and `bytes/` carries the raw blobs. No network or programming-language parser is involved.
+These are object projections, not a serialized repository or an assertion that repeated example
+hex ids hash to these bytes. The reader may consume supplied lookup results, as hail/1 §11 allows.
+
+For the extended cases, `lookup.object-inventory-complete` distinguishes a complete supplied
+object-name inventory from an unavailable lookup; `lookup.parent-graph-complete` states whether
+all parent edges needed to decide ancestry are supplied. Each `[[commit]]` names its repository,
+full `id`, ordered `parents` and `tree-complete`. A complete tree's only leaf entries are the
+matching `[[file]]` rows; absent rows prove absence only for a complete tree. Intermediate
+directories are ordinary trees. `kind = "file"` is a regular blob at mode 100644; `tree`,
+`symlink` and `submodule` are modes 040000, 120000 and 160000 respectively. `bytes` names the raw
+blob file relative to the case. `[[object]]` instead supplies a non-commit object's name, id
+and type. These fields are input facts, not expected verdicts. Empty parent arrays are roots.
+
+Older file cases without the lookup/commit extension keep their original convention: a file
+row supplies its commit and tree lookup; `settings.files = []` supplies a complete lookup
+showing that the requested path is absent. This backward-compatible shorthand does not infer
+success from an explicitly unavailable lookup in an extended case.

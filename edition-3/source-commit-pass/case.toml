@@ -1,0 +1,3 @@
+rule = "S1"
+checks = ["form", "sources"]
+about = "The one full hex id resolves to the supplied commit object. A commit source needs no file path."
