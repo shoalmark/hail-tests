@@ -73,6 +73,7 @@ edition-3/source-label-case	S4
 edition-3/source-label-later-line	S4
 edition-3/source-label-pass	S4
 edition-3/source-malformed	S6
+edition-3/source-malformed-escaping	E12 (F1)
 edition-3/source-malformed-hash	S6
 edition-3/source-malformed-path	S6
 edition-3/source-missing-file	S2
