@@ -1,6 +1,0 @@
-rule = "G10"
-base = "swe"
-kind = "body"
-marker = "END"
-re = "none"
-body = []

@@ -1,6 +1,0 @@
-rule = "G10"
-base = "swe"
-kind = "body"
-marker = "WARNING"
-re = "none"
-body = ["Next: I will stop the retry."]

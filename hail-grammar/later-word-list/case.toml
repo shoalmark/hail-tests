@@ -1,4 +1,0 @@
-rule = "G7"
-base = "swe"
-kind = "grammar"
-edits = [{ "op" = "set", "path" = ["openers", "Verdict", "words"], "value" = ["PASS", "FAIL"] }]

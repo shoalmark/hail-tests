@@ -1,7 +1,0 @@
-rule = "G3"
-base = "swe"
-kind = "body"
-marker = "QUESTION"
-re = "b.lead-20261127T0959Z-234bcd"
-body = ["Say again: The unclear bit."]
-ask = "Provide the part."

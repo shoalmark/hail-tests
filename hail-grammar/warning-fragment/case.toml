@@ -1,6 +1,0 @@
-rule = "G5"
-base = "swe"
-kind = "body"
-marker = "WARNING"
-re = "none"
-body = ["Fact: Observed failure count: 8."]

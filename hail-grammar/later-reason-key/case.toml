@@ -1,4 +1,0 @@
-rule = "G7"
-base = "swe"
-kind = "grammar"
-edits = [{ "op" = "set", "path" = ["markers", "REQUEST", "reason-required"], "value" = true }]

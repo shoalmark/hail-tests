@@ -1,6 +1,0 @@
-rule = "G10"
-base = "swe"
-kind = "body"
-marker = "INFORMATION"
-re = "none"
-body = ["fact: The count is 8."]

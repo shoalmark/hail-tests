@@ -1,7 +1,0 @@
-rule = "G6"
-base = "swe"
-kind = "body"
-marker = "REQUEST"
-re = "none"
-body = ["Fact: The observed count is 8.", "Not done: The second check was not run because the input is absent.", "Next: I will supply it when it lands."]
-ask = "Run the check."

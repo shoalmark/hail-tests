@@ -1,6 +1,0 @@
-rule = "G3"
-base = "swe"
-kind = "body"
-marker = "INFORMATION"
-re = "none"
-body = ["Next: Maybe later."]

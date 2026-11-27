@@ -1,6 +1,0 @@
-rule = "G5"
-base = "swe"
-kind = "body"
-marker = "STOP"
-re = "none"
-body = ["Fact: The observed failure count is 8."]

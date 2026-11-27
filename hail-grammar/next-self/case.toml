@@ -1,6 +1,0 @@
-rule = "G3"
-base = "swe"
-kind = "body"
-marker = "WILCO"
-re = "b.lead-20261127T0959Z-234bcd"
-body = ["Next: I will run the check."]

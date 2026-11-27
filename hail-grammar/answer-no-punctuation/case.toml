@@ -1,6 +1,0 @@
-rule = "G3"
-base = "swe"
-kind = "body"
-marker = "ANSWER"
-re = "b.lead-20261127T0959Z-234bcd"
-body = ["Fact: The count is 8. Tell me whether it is enough."]

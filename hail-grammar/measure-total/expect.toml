@@ -1,8 +1,0 @@
-format = 2
-verdict = "pass"
-exchange_characters = 440
-grammar_characters = 800
-rates = ["100/3", "100/3", "100/3"]
-fault-count = 0
-faults = []
-reports = []

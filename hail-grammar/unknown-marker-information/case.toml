@@ -1,6 +1,0 @@
-rule = "G10"
-base = "swe"
-kind = "body"
-marker = "LOCAL NOTICE"
-re = "none"
-body = ["Fact: The observed count is 8."]

@@ -1,4 +1,0 @@
-rule = "G10"
-base = "swe"
-kind = "grammar"
-edits = [{ "op" = "set", "path" = ["extra"], "value" = true }]
