@@ -1,0 +1,3 @@
+verdict = "pass"
+faults = []
+reports = ["source 1: committed bytes are unavailable; obtain the named revision to check the source."]
