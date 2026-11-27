@@ -1,0 +1,4 @@
+direct-message-grant = true
+reverse-answer-grant = true
+crosses-lead = false
+other-checks = "pass"
