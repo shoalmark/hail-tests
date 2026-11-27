@@ -47,6 +47,9 @@ edition-3/signing-roster	E9
 edition-3/signing-roster-false	E9
 edition-3/signing-roster-omitted	E9
 edition-3/signing-unchecked	E9
+edition-3/source-change-equal	S5
+edition-3/source-change-pass	S5
+edition-3/source-change-unrelated	S5
 edition-3/source-commit-object	S1
 edition-3/source-commit-only	E2
 edition-3/source-commit-pass	S1
@@ -58,9 +61,9 @@ edition-3/source-hash-wrong	E2
 edition-3/source-label-case	S4
 edition-3/source-label-later-line	S4
 edition-3/source-label-pass	S4
-edition-3/source-malformed	S4
-edition-3/source-malformed-hash	S4
-edition-3/source-malformed-path	S4
+edition-3/source-malformed	S5
+edition-3/source-malformed-hash	S5
+edition-3/source-malformed-path	S5
 edition-3/source-missing-file	S2
 edition-3/source-no-commit	E12
 edition-3/source-range-binary	S3

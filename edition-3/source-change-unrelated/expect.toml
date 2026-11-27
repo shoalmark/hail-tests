@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-source-ancestry"
+location = "source 1"
+match = "exact"
+line = "source 1: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa is not an ancestor of cccccccccccccccccccccccccccccccccccccccc; write name@from..to with from an ancestor of to, retaining any file path."
