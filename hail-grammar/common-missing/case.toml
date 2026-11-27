@@ -1,0 +1,5 @@
+rule = "G2"
+base = "swe"
+kind = "grammar"
+edits = [{ "op" = "delete", "path" = ["openers", "Say again"] }]
+remove_from_all_allow = "Say again"
