@@ -1,1 +1,1 @@
-body line 1: [g-empty] Fact has no statement; write the value or act after the opener.
+body line 1: [g-empty] Fact has no statement; write Fact: followed by one space and what was observed, with its value.

@@ -1,1 +1,1 @@
-header marker: [g-required] WARNING requires Fact; add a nonempty Fact: line.
+header marker: [g-required] WARNING requires Fact; add Fact: followed by one space and what was observed, with its value.

@@ -1,1 +1,1 @@
-grammar openers.Fact.means: [g-common-meaning] common meaning differs; write what was observed, with its value.
+grammar openers.Fact.means: [g-common-meaning] common meaning differs; write means = "what was observed, with its value".

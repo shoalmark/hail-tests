@@ -1,1 +1,1 @@
-grammar openers.Say again: [g-common-missing] common opener Say again is missing; add Say again with its edition-one meaning.
+grammar openers.Say again: [g-common-missing] common opener Say again is missing; add [openers."Say again"] with means = "the wanted part of the hail named by re: a source number, body line number or header name".
