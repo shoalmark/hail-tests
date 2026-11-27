@@ -1,0 +1,5 @@
+verdict = "pass"
+faults = []
+reports = []
+required-step = "signing required"
+verification-status = "signed"

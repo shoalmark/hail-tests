@@ -1,0 +1,5 @@
+verdict = "refuse"
+faults = ["settings teams.a.signing-required: false contradicts required roster signing; write true or omit signing-required."]
+reports = []
+required-step = "signing required"
+verification-status = "signed"
