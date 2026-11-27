@@ -1,0 +1,3 @@
+rule = "E3"
+checks = ["carried-hail"]
+about = "An outer REQUEST does not determine the carried act."

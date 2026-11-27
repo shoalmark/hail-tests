@@ -1,0 +1,5 @@
+carrier-marker = "REQUEST"
+carrier-reach = true
+carried-marker = "STOP"
+carried-to = "b.lead"
+carried-stop-grant = false
