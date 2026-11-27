@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["header from: a governing roster requires signing; add and verify the required hail signature."]
+reports = []

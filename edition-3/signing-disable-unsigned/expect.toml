@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["settings signing: only this owner’s signed commit can turn signing off; keep signing on or supply that commit."]
+reports = []

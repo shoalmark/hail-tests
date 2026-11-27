@@ -1,0 +1,3 @@
+rule = "E9"
+checks = ["signing-transition"]
+about = "A downgrade is checked against the old owner key."

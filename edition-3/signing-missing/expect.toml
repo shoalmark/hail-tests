@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["header from: this owner requires signing; file with the listed bot’s verified signed commit."]
+reports = []

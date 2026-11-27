@@ -1,0 +1,4 @@
+rule = "E9"
+checks = ["signing-step"]
+about = "The filing step determines the required verification and label."
+label = "by the forge's access alone"
