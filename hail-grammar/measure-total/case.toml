@@ -1,0 +1,13 @@
+rule = "G9"
+base = "swe"
+kind = "measure"
+hail_characters = [100, 80, 60]
+new_file_characters = [200]
+existing_file_characters = [900]
+grammar_session_characters = [400, 400]
+correction_hails = 1
+repeat_hails = 1
+both_hails = 1
+exchange_characters = 440
+grammar_characters = 800
+rates = ["100/3", "100/3", "100/3"]
