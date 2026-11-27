@@ -1,0 +1,4 @@
+[settings]
+repositories = { work = "https://forge.example/work" }
+source-hashes = false
+files = []

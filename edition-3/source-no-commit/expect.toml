@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["source 1: committed file reference is incomplete; write work:result.txt@ followed by its committed revision."]
+reports = []

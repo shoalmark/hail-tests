@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["source 1: result.txt is absent at the named commit; commit the file first and write that revision."]
+reports = []
