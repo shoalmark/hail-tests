@@ -49,7 +49,7 @@ edition-3/signing-roster-omitted	E9
 edition-3/signing-unchecked	E9
 edition-3/source-branch	S8
 edition-3/source-change-equal	S5
-edition-3/source-change-graph-unavailable	R3
+edition-3/source-change-graph-unavailable	R3 (F2)
 edition-3/source-change-pass	S5
 edition-3/source-change-unrelated	S5
 edition-3/source-commit-hash	S7
@@ -57,7 +57,7 @@ edition-3/source-commit-hash-setting	S7
 edition-3/source-commit-object	S1
 edition-3/source-commit-only	E2
 edition-3/source-commit-pass	S1
-edition-3/source-commit-unavailable	R3
+edition-3/source-commit-unavailable	R3 (F2)
 edition-3/source-file-absent	S2
 edition-3/source-file-change-absent	S6
 edition-3/source-file-change-added	S6
@@ -77,7 +77,7 @@ edition-3/source-malformed-escaping	E12 (F1)
 edition-3/source-malformed-hash	S6
 edition-3/source-malformed-path	S6
 edition-3/source-missing-file	S2
-edition-3/source-mixed-unavailable	R3
+edition-3/source-mixed-unavailable	R3 (F2)
 edition-3/source-no-commit	E12
 edition-3/source-note	S8
 edition-3/source-range-binary	S3

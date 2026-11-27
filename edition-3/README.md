@@ -26,7 +26,10 @@ that meaning and the location/problem/repair parts; `example` is illustrative, n
 The content mode is available only for hail/1 faults, never hail-grammar faults.
 
 `reports` contains selected informational notices. Compare their codes, including multiplicity and
-order, never their example words. Reports are separate from `faults` and do not increase fault-count.
+order. For a report with `match = "exact"`, also compare its `location` exactly and its `line`
+byte for byte as UTF-8 followed by one LF, as for exact faults. Its location field must match the
+location printed in the line. For reports without that mode, compare only their codes, multiplicity
+and order, never their example words. Reports are separate from `faults` and do not increase fault-count.
 The selected checks bound these expectations: a full tool must additionally disclose omitted authority,
 lookup and meaning checks. Those unselected not-checked notices are not compared by this suite.
 Other expected result fields are compared exactly. Passing selected checks authorizes no filing.

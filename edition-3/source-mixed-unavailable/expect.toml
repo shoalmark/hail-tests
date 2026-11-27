@@ -6,7 +6,8 @@ faults = []
 [[reports]]
 code = "source-not-checked"
 location = "source 2"
-example = "source 2: not checked; supply the missing commit, tree, blob or complete parent-graph inputs for this source and run the check again."
+match = "exact"
+line = "source 2: not checked; supply the missing commit, tree, blob or complete parent-graph inputs for this source and run the check again."
 
 [[source-results]]
 source = 1
