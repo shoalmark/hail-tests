@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-source-range-end"
+location = "source 1"
+match = "exact"
+line = "source 1: range ends at 4 but result.txt has 3 lines; write name:path@commit:first-last within those lines, or name:path@commit for the whole file."
