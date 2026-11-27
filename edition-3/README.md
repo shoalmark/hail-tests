@@ -19,11 +19,10 @@ ordered fault codes and locations, and fault count exactly. Each fault's locatio
 match the location printed in its one-line diagnostic. No fault can be silently merged or dropped.
 
 For `match = "exact"`, `line` is the exact UTF-8 printed line, followed by one LF. Its problem and
-repair words come from a fixed template in the governing text. Every hail-grammar fault uses this
-mode. For `match = "content"`, no literal template is fixed by hail/1: `problem-content` and
+repair words come from a fixed template in the governing text.
+For `match = "content"`, no literal template is fixed by hail/1: `problem-content` and
 `repair-content` state the required meaning and permitted replacement text or form. A reader checks
 that meaning and the location/problem/repair parts; `example` is illustrative, never a byte oracle.
-The content mode is available only for hail/1 faults, never hail-grammar faults.
 
 `reports` contains selected informational notices. Compare their codes, including multiplicity and
 order. For a report with `match = "exact"`, also compare its `location` exactly and its `line`

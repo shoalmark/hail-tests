@@ -1,4 +1,0 @@
-filed = true
-grammar = "case-budget"
-# grammar-file is relative to this case folder at the vector commit.
-grammar-file = "grammar.toml"

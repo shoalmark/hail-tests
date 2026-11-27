@@ -1,3 +1,0 @@
-rule = "E12"
-checks = ["record-grammar-effect"]
-about = "The same complete four-line body is checked against this case folder's grammar.toml; filing state determines refusal or reporting."
