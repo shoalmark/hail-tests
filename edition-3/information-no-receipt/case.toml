@@ -1,0 +1,5 @@
+rule = "E10"
+checks = ["receipts"]
+about = "Information alone starts no response clock."
+owed = []
+clock = false

@@ -1,0 +1,10 @@
+hail/1
+from: a.lead s1
+to: b.lead
+id: a.lead-20261127T1000Z-123abc
+re: b.lead-20261127T0959Z-234bcd
+marker: RECEIVED
+written-against: 2026-11-27T10:00:00+00:00
+receipt: received
+sources: 0
+end hail/1

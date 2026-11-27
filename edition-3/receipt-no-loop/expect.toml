@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["header receipt: a receipt cannot request another receipt; remove receipt: received."]
+reports = []

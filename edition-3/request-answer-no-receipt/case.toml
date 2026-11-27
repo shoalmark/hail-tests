@@ -1,0 +1,5 @@
+rule = "E10"
+checks = ["receipts"]
+about = "A request still owes its answer but no preliminary RECEIVED."
+owed = ["DECLINED or WILCO then DONE or DECLINED"]
+clock = true
