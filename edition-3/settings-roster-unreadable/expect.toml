@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["settings roster: governing state is unreadable; supply the counted roster state before filing."]
+reports = []

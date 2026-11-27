@@ -1,0 +1,3 @@
+rule = "E3"
+checks = ["repository-names"]
+about = "Unknown names never become workbenches."

@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["header to: b.other is not listed; write a listed bot address."]
+reports = []

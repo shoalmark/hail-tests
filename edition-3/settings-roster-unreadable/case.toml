@@ -1,0 +1,3 @@
+rule = "E3"
+checks = ["settings-carrier"]
+about = "No fallback from an unreadable governing roster."

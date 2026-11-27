@@ -1,0 +1,3 @@
+rule = "E3"
+checks = ["repository-names"]
+about = "A source can name any file of a listed repository."

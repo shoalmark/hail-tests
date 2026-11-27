@@ -1,0 +1,4 @@
+rule = "E3"
+checks = ["settings-carrier"]
+about = "The governing roster is the only carrier."
+selected = "roster"

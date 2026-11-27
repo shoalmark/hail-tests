@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["source 1: repository name work is not listed; use a listed name or have the record settings list work."]
+reports = []
