@@ -1,0 +1,8 @@
+rule = "G5"
+base = "swe"
+kind = "body"
+marker = "REQUEST"
+re = "none"
+body = ["Next: I will review only src/lib.rs when the tests pass."]
+ask = "Send the review."
+original = ["Next: I will review only src/lib.rs when the tests pass."]

@@ -1,0 +1,7 @@
+rule = "G5"
+base = "swe"
+kind = "body"
+marker = "INFORMATION"
+re = "none"
+body = ["Fact: Check 8 of src/lib.rs at abcdef0 returned `ok()`."]
+original = ["Fact: Check 8 of src/lib.rs at abcdef0 returned `ok()`."]
