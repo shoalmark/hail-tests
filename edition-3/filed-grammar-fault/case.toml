@@ -1,0 +1,4 @@
+rule = "E12"
+checks = ["record-grammar-effect"]
+about = "A grammar fault is reported without voiding a landed hail."
+effect = "unchanged"

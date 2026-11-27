@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["header to: missing is not a bot address; write a listed owner.bot or team.handle address.", "header written-against: yesterday is not a calendar time; write a valid YYYY-MM-DDTHH:MM:SSZ time or numeric offset.", "body line 1: citation #3 has no source; write the value here or cite an existing #1 through #9."]
+reports = []
