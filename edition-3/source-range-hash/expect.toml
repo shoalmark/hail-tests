@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-source-hash-form"
+location = "source 1"
+match = "exact"
+line = "source 1: sha256 is allowed only on name:path@commit; remove the sha256 suffix, or write name:path@commit sha256 H for the whole file with its 64 lower-case hex hash."

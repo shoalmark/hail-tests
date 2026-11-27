@@ -1,0 +1,3 @@
+rule = "S7"
+checks = ["form", "sources"]
+about = "The suffix is well formed but forbidden on a range. Its target and range independently pass; no hash comparison is run."

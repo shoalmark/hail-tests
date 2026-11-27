@@ -1,0 +1,3 @@
+rule = "S7"
+checks = ["form", "sources"]
+about = "The source is the whole-file form. Its supplied bytes have the stated sha256; source-hashes is true and satisfied."

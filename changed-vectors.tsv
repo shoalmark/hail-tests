@@ -50,6 +50,8 @@ edition-3/signing-unchecked	E9
 edition-3/source-change-equal	S5
 edition-3/source-change-pass	S5
 edition-3/source-change-unrelated	S5
+edition-3/source-commit-hash	S7
+edition-3/source-commit-hash-setting	S7
 edition-3/source-commit-object	S1
 edition-3/source-commit-only	E2
 edition-3/source-commit-pass	S1
@@ -57,6 +59,7 @@ edition-3/source-file-absent	S2
 edition-3/source-file-change-absent	S6
 edition-3/source-file-change-added	S6
 edition-3/source-file-change-deleted	S6
+edition-3/source-file-hash-pass	S7
 edition-3/source-file-pass	S2
 edition-3/source-hash-required	E2
 edition-3/source-hash-valid	E2
@@ -71,6 +74,7 @@ edition-3/source-missing-file	S2
 edition-3/source-no-commit	E12
 edition-3/source-range-binary	S3
 edition-3/source-range-final-no-lf	S3
+edition-3/source-range-hash	S7
 edition-3/source-range-pass	S3
 edition-3/source-range-past-end	S3
 edition-3/source-range-reversed	S3
