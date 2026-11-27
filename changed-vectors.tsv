@@ -54,6 +54,9 @@ edition-3/source-commit-object	S1
 edition-3/source-commit-only	E2
 edition-3/source-commit-pass	S1
 edition-3/source-file-absent	S2
+edition-3/source-file-change-absent	S6
+edition-3/source-file-change-added	S6
+edition-3/source-file-change-deleted	S6
 edition-3/source-file-pass	S2
 edition-3/source-hash-required	E2
 edition-3/source-hash-valid	E2
@@ -61,9 +64,9 @@ edition-3/source-hash-wrong	E2
 edition-3/source-label-case	S4
 edition-3/source-label-later-line	S4
 edition-3/source-label-pass	S4
-edition-3/source-malformed	S5
-edition-3/source-malformed-hash	S5
-edition-3/source-malformed-path	S5
+edition-3/source-malformed	S6
+edition-3/source-malformed-hash	S6
+edition-3/source-malformed-path	S6
 edition-3/source-missing-file	S2
 edition-3/source-no-commit	E12
 edition-3/source-range-binary	S3

@@ -7,7 +7,7 @@ This value does not match a permitted source form. Section 11 uses the general a
 Complete fault stream, in order:
 
 ```text
-source 1: not-a-reference is not a well-formed source value; write name@commit or name:path@commit or name:path@commit:first-last or name:path@commit:first-last label or name@from..to; use a listed name, a relative path of nonempty /-separated ASCII letter, digit, ., _ or - segments (not . or ..), and unique 7 to 64 lower-case hex commit ids; range numbers are positive decimal without leading zeros; label is one word without whitespace or controls; only name:path@commit may append sha256 H with H equal to the whole file's 64 lower-case hex hash.
+source 1: not-a-reference is not a well-formed source value; write name@commit or name:path@commit or name:path@commit:first-last or name:path@commit:first-last label or name@from..to or name:path@from..to; use a listed name, a relative path of nonempty /-separated ASCII letter, digit, ., _ or - segments (not . or ..), and unique 7 to 64 lower-case hex commit ids; range numbers are positive decimal without leading zeros; label is one word without whitespace or controls; only name:path@commit may append sha256 H with H equal to the whole file's 64 lower-case hex hash.
 ```
 
 Verdict: `refuse`; fault count: 1.
