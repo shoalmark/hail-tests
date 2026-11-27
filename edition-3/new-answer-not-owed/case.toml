@@ -1,0 +1,5 @@
+rule = "E13"
+checks = ["new-and-owed"]
+about = "An unshown answer is new even though it owes nothing."
+new = true
+owed = []

@@ -1,0 +1,3 @@
+rule = "E13"
+checks = ["record-operation"]
+about = "Line-end conversion is disabled."

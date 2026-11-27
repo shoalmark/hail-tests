@@ -1,0 +1,5 @@
+rule = "E13"
+checks = ["record-operation"]
+about = "A post-push check reports but cannot undo or block the push."
+actions = ["report malformed hail"]
+blocks = false
