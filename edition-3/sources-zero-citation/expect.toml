@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["body line 1: citation #0 has no source; write the value here or cite an existing #1 through #9."]
+reports = []

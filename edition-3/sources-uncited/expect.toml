@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["source 1: source is not cited; cite #1 in the body or ask, or remove the source and renumber."]
+reports = []

@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["header sources: count 10 is outside 0 through 9; write sources: 9 or fewer and retain only those source lines."]
+reports = []

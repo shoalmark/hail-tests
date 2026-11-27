@@ -1,0 +1,3 @@
+rule = "E1"
+checks = ["form"]
+about = "Earlier form cannot enter a third-edition record."

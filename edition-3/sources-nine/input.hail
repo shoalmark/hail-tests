@@ -1,0 +1,19 @@
+hail/1
+from: a.lead s1
+to: b.lead
+id: a.lead-20261127T1000Z-123abc
+re: none
+marker: INFORMATION
+written-against: 2026-11-27T10:00:00+00:00
+sources: 9
+#1 work:result.txt@aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#2 work:result.txt@aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#3 work:result.txt@aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#4 work:result.txt@aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#5 work:result.txt@aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#6 work:result.txt@aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#7 work:result.txt@aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#8 work:result.txt@aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#9 work:result.txt@aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Values in #1 #2 #3 #4 #5 #6 #7 #8 #9 agree.
+end hail/1
