@@ -1,0 +1,7 @@
+rule = "G10"
+base = "swe"
+kind = "body"
+marker = "REQUEST"
+re = "none"
+body = ["Unknown: The count is 8.", "Next:", "Fact: The observed count is 8.", "Fact: The observed count is 8."]
+ask = "Read the count."

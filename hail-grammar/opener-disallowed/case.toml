@@ -1,0 +1,6 @@
+rule = "G10"
+base = "swe"
+kind = "body"
+marker = "WILCO"
+re = "b.lead-20261127T0959Z-234bcd"
+body = ["Fact: The observed count is 8."]

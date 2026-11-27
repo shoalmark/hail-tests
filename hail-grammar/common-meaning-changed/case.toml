@@ -1,0 +1,4 @@
+rule = "G10"
+base = "swe"
+kind = "grammar"
+edits = [{ "op" = "set", "path" = ["openers", "Fact", "means"], "value" = "a guess" }]

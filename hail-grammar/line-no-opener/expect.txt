@@ -1,0 +1,1 @@
+body line 1: [g-opener] line has no exact opener; write Opener: followed by one space and the statement.

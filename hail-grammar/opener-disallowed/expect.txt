@@ -1,0 +1,1 @@
+body line 1: [g-allow] Fact is not allowed on WILCO; use an allowed opener without changing the meaning.

@@ -1,0 +1,6 @@
+rule = "G10"
+base = "swe"
+kind = "body"
+marker = "INFORMATION"
+re = "none"
+body = ["The count is 8."]

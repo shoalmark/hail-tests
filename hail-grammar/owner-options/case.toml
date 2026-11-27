@@ -1,0 +1,8 @@
+rule = "G10"
+base = "swe"
+kind = "body"
+marker = "QUESTION"
+re = "none"
+hail_kind = "decide"
+body = ["option A: Run the check.", "option B: Keep it queued."]
+ask = "Choose A or B."

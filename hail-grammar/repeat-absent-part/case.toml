@@ -1,0 +1,10 @@
+rule = "G10"
+base = "swe"
+kind = "body"
+marker = "QUESTION"
+re = "b.lead-20261127T0959Z-234bcd"
+body = ["Say again: source 2."]
+ask = "Supply that source."
+received_sources = 1
+received_body_lines = 1
+received_headers = ["written-against"]

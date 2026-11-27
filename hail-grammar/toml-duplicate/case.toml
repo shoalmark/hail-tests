@@ -1,0 +1,4 @@
+rule = "G10"
+base = "swe"
+kind = "grammar-raw"
+raw = "hail-grammar = 1\nhail-grammar = 1\n"

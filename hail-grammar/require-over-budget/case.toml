@@ -1,0 +1,4 @@
+rule = "G10"
+base = "swe"
+kind = "grammar"
+edits = [{ "op" = "set", "path" = ["markers", "REQUEST", "lines"], "value" = 0 }, { "op" = "set", "path" = ["markers", "REQUEST", "require"], "value" = ["Fact"] }]

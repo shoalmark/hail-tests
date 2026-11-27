@@ -1,0 +1,1 @@
+body line 1: [g-empty] Fact has no statement; write the value or act after the opener.
