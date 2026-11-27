@@ -1,0 +1,3 @@
+verdict = "refuse"
+faults = ["header pointer: this edition has one source list; remove pointer and put any reference in the numbered sources."]
+reports = []

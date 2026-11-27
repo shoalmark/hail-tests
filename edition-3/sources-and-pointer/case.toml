@@ -1,0 +1,3 @@
+rule = "E1"
+checks = ["form"]
+about = "A sources delimiter does not make the old key valid."
