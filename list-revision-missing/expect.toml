@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "pointer-unavailable"
+about = "The written-against revision that must supply the list is not among the commits given: refused (§3 \"that revision supplies the list and every named file\"; §11, test 103)"

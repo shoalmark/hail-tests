@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "options"
+reports = []
+about = "C.15 with one option line (§10b; §11 test 40)"

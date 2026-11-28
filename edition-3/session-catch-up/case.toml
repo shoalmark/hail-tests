@@ -1,0 +1,3 @@
+rule = "E6"
+checks = ["session-start"]
+about = "Catch-up precedes work without waiting for a watcher."

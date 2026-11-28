@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "from-form"
+reports = []
+about = "C.6 from a bot with no session: a bot sends as <team>.<handle> <session> (§3)"

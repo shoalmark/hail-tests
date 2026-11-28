@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "secret"
+about = "A pattern with a variable part, a fixed prefix and then forty characters, finds a key of that form in the body: a pattern is a regular expression in RE2 syntax, unanchored, matched per line over the bytes (§11 \"the versioned secret-pattern set given as an input\"; test 60)"

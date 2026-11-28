@@ -1,0 +1,16 @@
+hail/1
+from: owner desktop
+to: org.coordinator
+id: owner-20261115T1019Z-bfh75n
+re: none
+marker: INFORMATION
+written-against: 2026-11-15T10:19:00+00:00
+pointer: workbench:c16.txt sha256 34c733a1db80d2212d65495f501dac99a66b5ae4c71590abd0feec562bf029ff
+File this signed answer in the asking team record.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgEh7KK3wjAUdWGfaYlIUEFOrqyp
+E3daFc4o3CKmYXEaEAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAECcPBDy2fmw5caDazZuMH/z1X7UEyOYfEq+d5+i1RHXoD21MoHLeegk6ZRANnwp0x
+g+1yipn1uIk+PNA4vUutIH
+-----END SSH SIGNATURE-----

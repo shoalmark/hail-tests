@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "written-against-form"
+reports = []
+about = "C.6 whose written-against commit has 6 hex digits (§3)"

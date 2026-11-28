@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "header-line"
+reports = []
+about = "C.6 with the line hail/2 among its header lines, before the pointer line: a header line, which is no key: value pair (§3); the body's rule reads the body alone (§2)"

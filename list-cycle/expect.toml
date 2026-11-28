@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-cycle"
+about = "A list names itself: cycles are refused (§3 \"cycles are refused\"; §11, test 103)"

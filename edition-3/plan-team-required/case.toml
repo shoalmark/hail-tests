@@ -1,0 +1,3 @@
+rule = "E3"
+checks = ["form"]
+about = "A plan item explicitly names its team."

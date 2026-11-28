@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "id-form"
+about = "The id stamp 20261399T9999Z is no calendar time and is refused as id-form (§3)."

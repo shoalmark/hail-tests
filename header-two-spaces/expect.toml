@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "header-line"
+reports = []
+about = "C.6 with two spaces after from's colon: exactly one space (§3)"

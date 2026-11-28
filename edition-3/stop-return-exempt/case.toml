@@ -1,0 +1,3 @@
+rule = "E9"
+checks = ["return-grant"]
+about = "Missing reverse grants do not deny Owner hails or STOP."

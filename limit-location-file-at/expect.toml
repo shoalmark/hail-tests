@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only"]
+about = "A pointed file exactly as large as the location limit is hashed, scanned and passes: hail check's own limit, given in the scan policy (§11 \"scan policy as explicit inputs\")"

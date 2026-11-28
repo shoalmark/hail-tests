@@ -1,0 +1,3 @@
+rule = "E12"
+checks = ["form"]
+about = "All three independent faults appear in one pass."

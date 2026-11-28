@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "contents-not-checked", "secrets-not-checked", "private-ids-not-checked", "own-home-not-checked"]
+about = "A sealed span given the context row's inputs with the destination, the home and the secret-pattern set left out: nothing in it is scanned, so each input left out is reported as a plain span reports it, beside the row and the contents (§9a; §11, test 100)"

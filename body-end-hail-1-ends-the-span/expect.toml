@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "ask-missing"
+reports = []
+about = "C.6 whose second body line is end hail/1: the span ends there (§2), so the ask: line after it is outside every span and the REQUEST has none"

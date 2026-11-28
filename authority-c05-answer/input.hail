@@ -1,0 +1,17 @@
+hail/1
+from: b.planner s1
+to: a.planner
+id: b.planner-20261115T1005Z-rc5g0r
+re: a.planner-20261115T1004Z-y9c54z
+marker: ANSWER
+written-against: 2026-11-15T10:05:00+00:00
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+pointer: r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:content/result.md sha256 bb37b06bc40a7e20bc5cbbd2d0adff727ad2b9c5c15a41533724de9d63c31dbe
+No fault was found in this result.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgat7iSvrMJvXAyE1X0NwQ0bis+5
+5NQJ3sL5S3kTMd2twAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAECpyVppgemtHDumP566hkTg5N6mIZuafMOcKnsdJeaPNY5RkNqmyzHOqQgJm7B6Xg
+WPyZZfkLeZl9c9hl5aDuUD
+-----END SSH SIGNATURE-----

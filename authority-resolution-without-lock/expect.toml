@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "resolution-without-lock"
+about = "C.1 against Appendix B's roster read in place, given beside it a resolution, a pin's standing and the organisation's state: a reader resolves only from its lock, so the inputs contradict each other and are refused, never read as a resolution that was checked (§8)"

@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "home-path"
+about = "A home-path form in a file reached through a nested list is refused on a private route (§11 \"including through another list\"; test 75)"

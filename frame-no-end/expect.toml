@@ -1,0 +1,3 @@
+verdict = "not-judged"
+reports = []
+about = "C.6 without its end line: no span runs from hail/1 through end hail/1, so the message holds no hail and is ignored (§2)"

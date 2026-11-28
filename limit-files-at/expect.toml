@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only"]
+about = "A hash list and the list it nests reach three files, a.md, the nested list and b.md, as many as the files limit, and pass: hail check's own limit, given in the scan policy (§11 \"scan policy as explicit inputs\")"

@@ -1,0 +1,8 @@
+format = 2
+verdict = "pass"
+selected-edition = 1
+selected-text-commit = "f5b160698a180481240dbff5c8cc605aaab06121"
+preserved-sha256 = "49be2d6ed9c79f3f35de0d4b501eca34671f4a2ca7577a822ced016d8d29cccb"
+fault-count = 0
+faults = []
+reports = []

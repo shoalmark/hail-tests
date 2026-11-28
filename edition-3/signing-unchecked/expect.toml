@@ -1,0 +1,10 @@
+format = 2
+verdict = "pass"
+required-step = "signing required"
+verification-status = "not checked"
+fault-count = 0
+faults = []
+
+[[reports]]
+code = "signature-not-checked"
+example = "signature: required signing has not been checked."

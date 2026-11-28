@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "reach"
+about = "A decider's signed INFORMATION to team b's lead, outside its scope, team a: its key verifies, and its grants don't reach that bot (§8; §11, test 78)"

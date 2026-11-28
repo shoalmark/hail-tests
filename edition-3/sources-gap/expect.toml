@@ -1,0 +1,13 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+
+[[faults]]
+code = "h-source-label"
+location = "source 1"
+match = "exact"
+line = "source 1: label #2 is out of order; write #1 and update its citations."
+
+[[reports]]
+code = "source-labels-not-checked"
+example = "sources: citation matching not checked because the source labels are out of order."

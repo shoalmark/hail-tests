@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "options-only"
+reports = []
+about = "C.15 with a prose body line beside its two options: a decide ask's body lines are its options only, its reason in why and its detail behind the pointer (§10b)"

@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "extension"
+about = "C.1 against a roster whose `watcher-interval` is negative: refused (the key table, `bots`)"

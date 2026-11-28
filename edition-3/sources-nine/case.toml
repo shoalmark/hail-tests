@@ -1,0 +1,3 @@
+rule = "E1"
+checks = ["form"]
+about = "Nine references is the form boundary; repeated files are allowed."

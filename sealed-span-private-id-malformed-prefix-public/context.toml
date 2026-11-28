@@ -1,0 +1,13 @@
+destination = "public"
+private-id-prefixes = ["AA-", "BB"]
+home = []
+
+[secret-patterns]
+version = "case-1"
+patterns = ["SECRET"]
+
+[limits]
+location-bytes = 4096
+line-bytes = 1024
+listed-files = 16
+message-bytes = 16384

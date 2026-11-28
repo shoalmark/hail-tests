@@ -1,0 +1,3 @@
+rule = "E1"
+checks = ["form"]
+about = "An invalid count prevents locating the body; no guessed citation faults."

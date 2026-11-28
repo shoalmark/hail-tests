@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "secrets-not-checked"]
+about = "A workbench pointer: the sha256 of the workbench file's bytes is the pointer's hash, and it passes (§3 \"in a workbench, the file's bytes\"; §11, test 73)"

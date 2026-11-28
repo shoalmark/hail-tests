@@ -1,0 +1,7 @@
+format = 2
+verdict = "pass"
+owed = ["RECEIVED"]
+clock = true
+fault-count = 0
+faults = []
+reports = []

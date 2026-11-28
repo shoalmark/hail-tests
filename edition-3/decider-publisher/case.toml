@@ -1,0 +1,3 @@
+rule = "E9"
+checks = ["decider-publication"]
+about = "The listed bot publishes the signed source unchanged."

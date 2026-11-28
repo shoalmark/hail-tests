@@ -1,0 +1,3 @@
+rule = "S6"
+checks = ["form", "sources"]
+about = "Ancestry passes. The file is regular at from and absent in the complete empty tree at to; a deletion is a permitted file change."

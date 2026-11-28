@@ -1,0 +1,3 @@
+rule = "E11"
+checks = ["form"]
+about = "Equivalent instants in each accepted time form."

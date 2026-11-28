@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "key-not-allowed"
+reports = []
+about = "C.31's opened bytes without min-class, given as a plain hail still carrying sealed-to (§3, §9a; §11 test 79)"

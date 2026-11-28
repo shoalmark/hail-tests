@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "pointer-form"
+about = "A repository token derived from no declared origin is a workbench name, and a workbench pointer with a commit is refused (§3 \"A token not derived from a declared repository is a workbench name; a workbench pointer with @<commit> is refused\"; §11, test 73)"

@@ -1,0 +1,3 @@
+rule = "E10"
+checks = ["receipts"]
+about = "An explicit receipt request starts the first-response clock."

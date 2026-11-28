@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "time-form"
+reports = []
+about = "C.15 whose decide-by is written with Z (§3)"

@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "pointer-unavailable"
+about = "A repository pointer names a commit that is not among the commits given: refused as bytes it cannot obtain (§3 \"it must resolve uniquely\"; §11, test 60)"

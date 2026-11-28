@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "retired"
+reports = []
+about = "C.15 as an owner-act ask carrying roster, a retired key: a grant change is an owner-act request with no roster or keys header (§3, §10b)"

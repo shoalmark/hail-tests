@@ -1,0 +1,10 @@
+hail/1
+from: a.builder-1 s1
+to: b.builder-1
+id: a.builder-1-20261115T1040Z-w3rn9b
+re: none
+marker: WARNING
+written-against: 2026-11-15T10:40:00+00:00
+pointer: none
+A plain fact for the record.
+end hail/1

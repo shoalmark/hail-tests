@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "pointer-unavailable"
+about = "A workbench pointer whose file is not among the inputs: unobtainable pointed-at bytes are refused (§11 \"any pointed-at bytes it cannot obtain or verify\"; test 60)"

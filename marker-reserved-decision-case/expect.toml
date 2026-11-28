@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "keyword-form"
+about = "A marker this edition defines or reserves is written as Decision: a wrong-case keyword, not an unknown marker (§2; §11 test 68)."

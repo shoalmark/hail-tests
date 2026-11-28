@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "reach"
+about = "C.7 against a roster where the coordinator has no `hail.stop`: a role alone grants no STOP (§6.3, §8)"

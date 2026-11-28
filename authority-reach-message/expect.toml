@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "reach"
+about = "C.2 against a roster where a.reviewer-1 has no `hail.message` to a.planner: no right reaches the recipient (§8)"

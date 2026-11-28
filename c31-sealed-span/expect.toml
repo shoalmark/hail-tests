@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "contents-not-checked"]
+about = "Appendix C.31's sealed wire span alone: its form passes, and its contents are not checked without the opening result bound to it (§9a, §11 test 80)"

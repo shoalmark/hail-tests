@@ -1,0 +1,17 @@
+hail/1
+from: a.builder-1 s2
+to: a.planner
+id: a.builder-1-20261115T1025Z-nffasm
+re: a.builder-1-20261115T1024Z-e12e21
+marker: END
+written-against: 2026-11-15T10:25:00+00:00
+bot: a.builder-1
+session: s2
+pointer: none
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgSrkqFF2E6nKrlw9TrD2ulTSFTu
+vj6vU6QHJmk2UzClgAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAECgRcflhZsBEFOQ32oCWEfk+poVqzGF/Jg5anyx+HGRcYPo2CEF7febD37rjVZLA2
+3BtouJSdJ51zl610o7X7gE
+-----END SSH SIGNATURE-----

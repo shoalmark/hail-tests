@@ -1,0 +1,9 @@
+hail/1
+from: owner phone
+to: org.coordinator
+id: owner-20261115T1018Z-gtexqy
+re: org.coordinator-20261115T1017Z-b6xh68
+marker: RECEIVED
+written-against: 2026-11-15T10:18:00+00:00
+pointer: none
+end hail/1

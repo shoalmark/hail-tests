@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "retired"
+reports = []
+about = "C.6 with acting-for, a retired key (§3; §11 test 34)"

@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-source-uncited"
+location = "source 1"
+match = "exact"
+line = "source 1: source is not cited; cite #1 in the body or ask, or remove the source and renumber."

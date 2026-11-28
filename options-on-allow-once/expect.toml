@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "options"
+reports = []
+about = "C.15 as an allow-once ask keeping its two option lines: only decide has options (§10b; §11 test 40)"

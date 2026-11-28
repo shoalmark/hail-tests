@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "owner-key-not-checked", "not-checked-authority"]
+about = "A lead's unsigned RECEIVED to the Owner's hail given as received, where the Owner's key line is valid before 2026-11-16 and no reference time is given: whether the original verifies is not checked, so the reply is reported, not refused (§8, §9; §11, tests 100 and 105)"

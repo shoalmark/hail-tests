@@ -1,0 +1,3 @@
+rule = "E9"
+checks = ["signing-step"]
+about = "A form-only view shows required signing without claiming verification."

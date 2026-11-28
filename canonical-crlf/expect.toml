@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only"]
+about = "C.6 with CRLF line endings: the reader rebuilds the canonical form, LF line endings, before finding frame lines (§2, §9; §11 test 56's line ends)"

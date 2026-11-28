@@ -1,0 +1,3 @@
+rule = "S2"
+checks = ["form", "sources"]
+about = "The supplied complete tree contains result.txt only, so missing.txt is proven absent."

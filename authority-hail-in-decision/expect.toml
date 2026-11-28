@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "namespace"
+about = "C.19 signed in the `hail-decision` namespace: `hail-decision` fails on another hail (§9; §11, test 24)"

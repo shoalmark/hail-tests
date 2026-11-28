@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "signature-block"
+reports = []
+about = "C.6 whose signature block has no end line: a block straight after end hail/1 is an armored SSH signature (§9)"

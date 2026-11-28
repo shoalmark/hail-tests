@@ -1,0 +1,6 @@
+format = 2
+verdict = "pass"
+selected = "roster"
+fault-count = 0
+faults = []
+reports = []

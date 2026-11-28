@@ -1,0 +1,17 @@
+hail/1
+from: owner desktop
+to: org.coordinator
+id: owner-20261115T1028Z-6wfcs1
+re: owner-20261115T1027Z-3vyt0r
+marker: BACK
+written-against: 2026-11-15T10:28:00+00:00
+until: 2026-11-16T09:00:00+00:00
+pointer: none
+The coordinator is present.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg6kpsY+KcUgq+9VB7Ey7F+ZVHdq
+6+vnuSQh7qaRRG0iwAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAEBzJLpwYB2w2WjxGHMDTqPRIr3S5nzqS3uV5FmdwawqsQvqWsY8WGo4yqhe/jW57y
+90/O29/VOJlul7sFaTDiED
+-----END SSH SIGNATURE-----

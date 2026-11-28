@@ -1,0 +1,3 @@
+rule = "S2"
+checks = ["form", "sources"]
+about = "The commit resolves; result.txt is a regular mode-100644 blob. Its raw bytes are present; no hash is required."

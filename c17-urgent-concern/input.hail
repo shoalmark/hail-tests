@@ -1,0 +1,18 @@
+hail/1
+from: org.coordinator s1
+to: owner
+id: org.coordinator-20261115T1017Z-b6xh68
+re: none
+marker: WARNING
+written-against: 2026-11-15T10:17:00+00:00
+urgent: A pending filing may miss its window.
+harm-by: 2026-11-15T11:00:00+00:00
+pointer: none
+The record cannot be reached from the working team.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgeXk6lr/H0FX8P6T92gXeWbTvuK
+Linn+m673D/6BysQoAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAEAH9EoWvJPoNEFGzohnj44Fsqhb7nCkSvX68AXpnX17+vnej2i8h4cvFed+h6Mwml
+6yTR0GC3OZrSNkhLZVCcYF
+-----END SSH SIGNATURE-----

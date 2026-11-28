@@ -1,0 +1,2 @@
+location = "side-branch"
+remote-default-branch = false

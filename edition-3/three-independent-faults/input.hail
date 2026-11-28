@@ -1,0 +1,10 @@
+hail/1
+from: a.lead s1
+to: missing
+id: a.lead-20261127T1000Z-123abc
+re: none
+marker: INFORMATION
+written-against: yesterday
+sources: 0
+See #3.
+end hail/1

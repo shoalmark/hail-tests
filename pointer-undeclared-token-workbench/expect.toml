@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "secrets-not-checked"]
+about = "A token derived from no declared origin, without a commit, names a workbench, and that workbench's file is hashed: it passes (§3 \"A token not derived from a declared repository is a workbench name\"; §11, test 73)"

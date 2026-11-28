@@ -1,0 +1,13 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+
+[[faults]]
+code = "h-sources-missing"
+location = "header sources"
+match = "exact"
+line = "header sources: sources line is missing; replace the earlier-edition pointer line with sources: 0 or the required count."
+
+[[reports]]
+code = "sources-delimiter-not-checked"
+example = "body: body and citation checks not run because the sources delimiter is missing."

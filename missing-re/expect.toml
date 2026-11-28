@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "missing-key"
+reports = []
+about = "C.1 without re (§3)"

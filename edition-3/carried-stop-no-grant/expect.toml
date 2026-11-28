@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-carried-stop"
+location = "source 1"
+match = "exact"
+line = "source 1: carried STOP has no stop right to b.lead; obtain that right or carry a permitted hail instead."

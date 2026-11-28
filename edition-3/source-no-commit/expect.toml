@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-source-commit"
+location = "source 1"
+match = "exact"
+line = "source 1: committed file reference work:result.txt is incomplete; write name:path@commit using work:result.txt as name:path and 7 to 64 lower-case hex commit digits; optionally append sha256 H with H equal to the committed file's 64 lower-case hex hash."

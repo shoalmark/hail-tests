@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "body-lines"
+reports = []
+about = "C.6 with six body lines (§2; §11 test 72)"

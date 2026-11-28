@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "ask-forbidden"
+reports = []
+about = "C.6 then C.5 with an ask line, in one message: several frames are several hails, and the second is refused (§2, §3 test 72)"

@@ -1,0 +1,4 @@
+marker = "ANSWER"
+addressed-to-own-bot = true
+shown-before = false
+reply-required = false

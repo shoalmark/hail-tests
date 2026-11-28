@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "reserved-marker"
+reports = []
+about = "C.16 sent by the coordinator, its id its own: DECISION is only the Owner's (§4)"

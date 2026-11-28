@@ -1,0 +1,3 @@
+rule = "E11"
+checks = ["form"]
+about = "Z does not relax offset bounds."

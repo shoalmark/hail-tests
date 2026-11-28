@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "id-sender"
+about = "A DONE receipt with re: none and an id whose sender differs from `from`: id-sender (§3) precedes receipt-re (§4 rule 2)"

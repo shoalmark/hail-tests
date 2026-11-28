@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-entry"
+about = "A listed path that is a symbolic link at the list's revision is refused (§3 \"No ... symbolic link or submodule is allowed, at the file or any parent\"; §11, test 103)"

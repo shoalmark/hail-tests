@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only"]
+about = "C.7 against a roster where a.planner may STOP b.builder-1, across teams, and b.builder-1 holds `hail.answer` to a.planner, and neither holds another hail grant toward the other: the reverse `hail.answer` is the stopped bot's toward the bot that may stop it, so the configuration holds (§8)"

@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only"]
+about = "Four patterns of ten thousand repeated classes, each inside its own limit, compile together inside the set's limit, find nothing, and the hail passes (§11 \"the versioned secret-pattern set given as an input\")"

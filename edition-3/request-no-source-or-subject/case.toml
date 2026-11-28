@@ -1,0 +1,3 @@
+rule = "E5"
+checks = ["form"]
+about = "An ordinary request requires no body, reason, subject or source."

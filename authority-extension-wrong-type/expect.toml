@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "extension"
+about = "C.1 against a roster whose `signing-required` is a string: refused (the key table)"

@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "from-form"
+reports = []
+about = "C.18 from owner phone: the Owner sends as owner desktop (§3; §11 test 42)"

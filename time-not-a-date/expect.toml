@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "written-time"
+reports = []
+about = "C.6 with 29 February of a common year: a valid calendar date (§3)"

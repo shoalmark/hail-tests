@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "to-form"
+reports = []
+about = "C.17 addressed to owner beside a bot: owner stands alone (§3; §11 test 69)"

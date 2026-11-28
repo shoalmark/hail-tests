@@ -1,0 +1,12 @@
+format = 2
+verdict = "refuse"
+required-step = "signing required"
+verification-status = "refused"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-signature-required"
+location = "record signature"
+match = "exact"
+line = "record signature: required signature is not verified; supply the signature required at filing and verify it with the counted key."

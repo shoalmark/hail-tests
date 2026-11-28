@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "to-form"
+reports = []
+about = "C.6 addressed to free text, a builder (lane 4): its remark removed, it is no bot address, no person's address and not owner (§3)"

@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "ask-form"
+reports = []
+about = "C.6 whose ask line is empty (§3)"

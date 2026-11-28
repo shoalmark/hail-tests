@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "unsigned"
+about = "An unsigned INFORMATION from team a's lead to team b's, where team b requires signing: a route is signed if either team's flag requires it (§9; §11, test 77)"

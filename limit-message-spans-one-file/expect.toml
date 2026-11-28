@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "message-limit"
+about = "Four hails in one message point at one file, each hail and the file within the location limit: the file counts each time a hail's pointer reaches it, and the third time it would pass the message limit, so it is refused before it is hashed again. hail check's own limit, given in the scan policy (§11 \"scan policy as explicit inputs\")"

@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "private-id-prefix"
+about = "A malformed configured private-id prefix refuses a public-bound hail even when its content lies in a sealed span (§11; §9a)"

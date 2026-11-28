@@ -1,0 +1,12 @@
+hail/1
+from: org.coordinator s1
+to: owner, org.coordinator
+id: org.coordinator-20261115T1017Z-b6xh68
+re: none
+marker: WARNING
+written-against: 2026-11-15T10:17:00+00:00
+urgent: A pending filing may miss its window.
+harm-by: 2026-11-15T11:00:00+00:00
+pointer: none
+The record cannot be reached from the working team.
+end hail/1

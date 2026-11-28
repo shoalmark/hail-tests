@@ -1,0 +1,13 @@
+hail/1
+from: a.builder-1 s2
+to: a.planner
+id: a.builder-1-20261115T1023Z-8er13k
+re: a.planner-20261115T1022Z-jte0h3
+marker: CLAIM
+written-against: 2026-11-15T10:23:00+00:00
+bot: a.builder-1
+session: s2
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+waiting: AA-4 is open.
+pointer: none
+end hail/1

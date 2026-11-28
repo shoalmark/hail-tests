@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "stop-subject"
+reports = []
+about = "C.7 whose subject names two items: a STOP always names one (§3)"

@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "private-id"
+about = "A private id in the ask on a public route is refused (§11; test 76)"

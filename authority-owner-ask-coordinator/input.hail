@@ -1,0 +1,24 @@
+hail/1
+from: org.coordinator s1
+to: owner
+id: org.coordinator-20261115T1015Z-pxm2zd
+re: a.planner-20261115T1013Z-7eqxmv
+marker: QUESTION
+written-against: 2026-11-15T10:15:00+00:00
+kind: decide
+why: The Owner must set which of these two allowed tasks comes first.
+clarify: a.planner, org.coordinator
+raised-by: a.planner
+decide-by: 2026-11-16T10:00:00+00:00
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+pointer: r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:records/a/a.planner-20261115T1013Z-7eqxmv.txt sha256 a06be2e9b03fcd577386049c4a4becf8a9b95981040ffd4bc9bfd40ea025a186
+option A: Do the small check now.
+option B: Keep the check queued.
+ask: Choose A or B.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgeXk6lr/H0FX8P6T92gXeWbTvuK
+Linn+m673D/6BysQoAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAECIGhvxssGk+W/cAaxMMCZ1swkRN+Xe2YzkwQcD9FJMnJeBTZ8J5E2ijP83pNcWs2
+KoG45CW9QHUdPffPHrBQQE
+-----END SSH SIGNATURE-----

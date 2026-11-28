@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "secrets-not-checked", "ancestry-unknown"]
+about = "The head is another commit and no ancestry lookup is given: whether it moved past the named commit is reported as not checked (§3 \"The written-against warning light\"; §11 \"omitted inputs never give a full pass\")"

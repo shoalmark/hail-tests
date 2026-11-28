@@ -1,0 +1,3 @@
+rule = "S1"
+checks = ["form", "sources"]
+about = "The id resolves uniquely, but its object type is blob, not commit. No tag peeling or file interpretation repairs this form."

@@ -1,0 +1,11 @@
+hail/1
+from: a.planner s1
+to: org.coordinator
+id: a.planner-20261115T1021Z-rvcgap
+re: owner-20261115T1017Z-9t70kw
+marker: WILCO
+written-against: 2026-11-15T10:21:00+00:00
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+decision: owner-20261115T1017Z-9t70kw aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+pointer: r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:records/org/decision.txt sha256 34c733a1db80d2212d65495f501dac99a66b5ae4c71590abd0feec562bf029ff
+end hail/1

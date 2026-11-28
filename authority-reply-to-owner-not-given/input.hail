@@ -1,0 +1,9 @@
+hail/1
+from: a.planner s1
+to: owner
+id: a.planner-20261115T1041Z-r3c4v3
+re: owner-20261115T1040Z-0wn3r4
+marker: RECEIVED
+written-against: 2026-11-15T10:41:00+00:00
+pointer: none
+end hail/1

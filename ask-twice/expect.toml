@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "ask-twice"
+reports = []
+about = "C.6 with a second ask line (§3; §11 test 72)"

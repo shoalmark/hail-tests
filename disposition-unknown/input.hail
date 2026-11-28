@@ -1,0 +1,12 @@
+hail/1
+from: org.coordinator s1
+to: a.planner
+id: org.coordinator-20261115T1016Z-44xnfe
+re: a.planner-20261115T1013Z-7eqxmv
+marker: ANSWER
+written-against: 2026-11-15T10:16:00+00:00
+disposition: forwarded
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+pointer: r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:records/org/org.coordinator-20261115T1015Z-pxm2zd.txt sha256 5ff1b2e7029c69cba579210b96acb0d76ae06aa78fb8b0e5f6c08dae01d6c1eb
+The choice is with the Owner.
+end hail/1

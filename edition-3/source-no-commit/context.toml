@@ -1,0 +1,9 @@
+[settings]
+repositories = { work = "https://forge.example/work" }
+source-hashes = false
+[[file]]
+name = "work"
+commit = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+path = "result.txt"
+kind = "file"
+bytes = "bytes/result.txt"

@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "signer"
+about = "C.2 against a roster where a.reviewer-1 declares no signing key: a signature present must verify against the sender's key, and there is none (§9)"

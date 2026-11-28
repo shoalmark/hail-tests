@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "secrets-not-checked"]
+about = "A repository pointer at a commit: the sha256 of the bytes as committed at that revision is the pointer's hash, and the context row passes (§3 \"Pointer hashes cover files\"; §11, test 73)"

@@ -1,0 +1,3 @@
+rule = "E3"
+checks = ["record-home"]
+about = "Quieting a record supplies no migration right."

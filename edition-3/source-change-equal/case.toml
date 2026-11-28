@@ -1,0 +1,3 @@
+rule = "S5"
+checks = ["form", "sources"]
+about = "Both endpoints name the same supplied commit. A commit is its own ancestor and the empty endpoint change is allowed."

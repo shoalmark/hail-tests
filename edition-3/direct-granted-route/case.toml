@@ -1,0 +1,3 @@
+rule = "E3"
+checks = ["route"]
+about = "The roster writer arranges routes; a reader does not add a lead gate."

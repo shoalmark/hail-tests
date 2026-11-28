@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "not-signed"
+about = "C.19 without its signature: the Owner's hail is signed always (§9)"

@@ -1,0 +1,12 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-address-listed"
+location = "header to"
+match = "content"
+problem-content = "b.other is not listed"
+repair-content = ["Write a bot address listed in the record settings."]
+example = "header to: b.other is not listed; write a listed bot address."

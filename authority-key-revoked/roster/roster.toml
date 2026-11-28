@@ -1,0 +1,195 @@
+[roster]
+edition = 1
+spec = "sealanes/1"
+
+[roster.bots."org.coordinator"]
+grants = [{ act = "hail.message", to = ["a.*", "b.*"] }, { act = "hail.answer", to = ["a.*", "b.*"] }, { act = "hail.brief", to = ["a.*", "b.*"] }, { act = "hail.stop", to = ["a.planner", "b.planner"] }, { act = "bot.wake" }, { act = "records.file", folders = ["records/org"] }]
+identities = ["org.coordinator@bots.forge.example"]
+kind = "coordinator"
+name = "Coordinator ORG"
+sessions = 2
+
+[roster.bots."org.coordinator".keys]
+signing = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHl5Opa/x9BV/D+k/doF3lm077ii4p5/puu9w/+gcrEK"
+
+[roster.bots."audit.auditor"]
+grants = [{ act = "records.file", folders = ["records/audit"] }]
+identities = ["audit.auditor@bots.forge.example"]
+kind = "auditor"
+name = "Auditor AUDIT"
+
+[roster.bots."audit.auditor".keys]
+signing = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICJQEXNv4Smmv4eFHfk4JfNRMpaFGzMaNG47JjJfk7iH"
+
+[roster.bots."a.planner"]
+grants = [{ act = "hail.message", to = ["a.*", "b.planner", "org.coordinator"] }, { act = "hail.answer", to = ["a.*", "b.planner", "org.coordinator"] }, { act = "hail.brief", to = ["a.*"] }, { act = "hail.stop", to = ["a.*"] }, { act = "bot.wake" }, { act = "records.file", folders = ["records/a"] }]
+identities = ["a.planner@bots.forge.example"]
+kind = "planner"
+name = "Planner A"
+
+[roster.bots."a.planner".keys]
+signing = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHJXBbJ2n6guBAwtuquV7BfEIYGlb4Wfty3etAeFmFfD"
+
+[roster.bots."a.builder-1"]
+grants = [{ act = "hail.message", to = ["a.planner"] }, { act = "hail.answer", to = ["a.*", "org.coordinator"] }]
+identities = ["a.builder-1@bots.forge.example"]
+kind = "builder"
+name = "Builder One A"
+sessions = 2
+
+[roster.bots."a.builder-1".keys]
+signing = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEq5KhRdhOpyq5cPU6w9rpU0hU7r4+r1OkByZpNlMwpY"
+
+[roster.bots."a.builder-2"]
+grants = [{ act = "hail.message", to = ["a.planner"] }, { act = "hail.answer", to = ["a.*", "org.coordinator"] }]
+identities = ["a.builder-2@bots.forge.example"]
+kind = "builder"
+name = "Builder Two A"
+
+[roster.bots."a.builder-2".keys]
+signing = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE1AF+dD2mYPL9ChQu9fwIFjb3x3cq7mGrmtg9URv7mW"
+
+[roster.bots."a.reviewer-1"]
+grants = [{ act = "hail.message", to = ["a.planner"] }, { act = "hail.answer", to = ["a.*", "org.coordinator"] }]
+identities = ["a.reviewer-1@bots.forge.example"]
+kind = "reviewer"
+name = "Reviewer One A"
+
+[roster.bots."a.reviewer-1".keys]
+signing = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILk+71L70PfBidNerIbVRdm92zQscpFTvaH29MSBe2ne"
+
+[roster.bots."a.reviewer-2"]
+grants = [{ act = "hail.message", to = ["a.planner"] }, { act = "hail.answer", to = ["a.*", "org.coordinator"] }]
+identities = ["a.reviewer-2@bots.forge.example"]
+kind = "reviewer"
+name = "Reviewer Two A"
+
+[roster.bots."a.reviewer-2".keys]
+signing = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPCw3K2oeYx2AHOeTDnpT1rkXr1mRCCS4w/uma+1ZASA"
+
+[roster.bots."b.planner"]
+grants = [{ act = "hail.message", to = ["b.*", "a.planner", "org.coordinator"] }, { act = "hail.answer", to = ["b.*", "a.planner", "org.coordinator"] }, { act = "hail.brief", to = ["b.*"] }, { act = "hail.stop", to = ["b.*"] }, { act = "bot.wake" }, { act = "records.file", folders = ["records/b"] }]
+identities = ["b.planner@bots.forge.example"]
+kind = "planner"
+name = "Planner B"
+
+[roster.bots."b.planner".keys]
+sealing = "age1ve2k4cl39dnxy7vsp9ssa57ksmuqjknr0m68k6nrwmkarlfah9usm7vg9j"
+signing = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGre4kr6zCb1wMhNV9DcENG4rPueTUCd7C+Ut5EzHdrc"
+
+[roster.bots."b.builder-1"]
+grants = [{ act = "hail.message", to = ["b.planner"] }, { act = "hail.answer", to = ["b.*", "org.coordinator"] }]
+identities = ["b.builder-1@bots.forge.example"]
+kind = "builder"
+name = "Builder One B"
+
+[roster.bots."b.builder-1".keys]
+signing = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINUBpEYq/rfhJnBJXuCQAXDrfvXkTamZKG6D/9FhKZqo"
+
+[roster.kinds.auditor.definition]
+path = "trust/kind.md"
+sha256 = "28a366aba4905845d7e540b37aea3bed8b2411e3b0d586c8d5af4a93a3a0ce08"
+
+[roster.kinds.builder.definition]
+path = "trust/kind.md"
+sha256 = "28a366aba4905845d7e540b37aea3bed8b2411e3b0d586c8d5af4a93a3a0ce08"
+
+[roster.kinds.coordinator.definition]
+path = "trust/kind.md"
+sha256 = "28a366aba4905845d7e540b37aea3bed8b2411e3b0d586c8d5af4a93a3a0ce08"
+
+[roster.kinds.planner.definition]
+path = "trust/kind.md"
+sha256 = "28a366aba4905845d7e540b37aea3bed8b2411e3b0d586c8d5af4a93a3a0ce08"
+
+[roster.kinds.reviewer.definition]
+path = "trust/kind.md"
+sha256 = "28a366aba4905845d7e540b37aea3bed8b2411e3b0d586c8d5af4a93a3a0ce08"
+
+[roster.owners.owner]
+identities = [{ id = "owner@users.noreply.forge.example", signed = true }]
+name = "Owner"
+
+[roster.owners.owner.signing-keys]
+path = "trust/allowed_signers"
+sha256 = "d496a83647d1793c9ae04c9917c3a5ada73326feb21a1247315c29f7c468b915"
+
+[roster.people.m1]
+grants = [{ act = "hail.message", in = ["a"] }, { act = "hail.answer", in = ["a"] }, { act = "hail.brief", in = ["a"] }]
+identities = [{ id = "m1@users.noreply.forge.example", signed = true }]
+name = "Person M1"
+teams = ["a"]
+
+[roster.people.m1.keys]
+signing = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINCMdkMeHUBDP47BZLpq6E0JzpncGNHlaGFvti6SAQHR"
+
+[roster.teams.org]
+org = true
+filer = "org.coordinator"
+principal = "org.coordinator"
+owner = "owner"
+places = [{ folder = "trackers/org", prefixes = ["OR"], repo = "https://forge.example/org/records" }]
+
+[roster.teams.org.record]
+folder = "records/org"
+repo = "https://forge.example/org/records"
+
+[roster.teams.audit]
+audit = true
+filer = "audit.auditor"
+principal = "audit.auditor"
+owner = "owner"
+places = [{ folder = "trackers/audit", prefixes = ["AU"], repo = "https://forge.example/org/records" }]
+
+[roster.teams.audit.record]
+folder = "records/audit"
+repo = "https://forge.example/org/records"
+
+[roster.teams.a]
+filer = "a.planner"
+lead = "a.planner"
+owner = "owner"
+places = [{ folder = "trackers/a", prefixes = ["AA"], repo = "https://forge.example/org/records" }]
+
+[roster.teams.a.record]
+folder = "records/a"
+repo = "https://forge.example/org/records"
+
+[roster.teams.b]
+filer = "b.planner"
+lead = "b.planner"
+owner = "owner"
+places = [{ folder = "trackers/b", prefixes = ["BB"], repo = "https://forge.example/org/records" }]
+
+[roster.teams.b.record]
+folder = "records/b"
+repo = "https://forge.example/org/records"
+
+[roster.ext.hail]
+spec = "hail/1"
+edition = 3
+extends = { spec = "sealanes/1", edition = 1 }
+oversight-keys = [
+  { recipient = "age1609060eu4z03gcdlrxk4n5wws3ywe83z895rx4tgkkc5vp97pfvqaua0dn", class = "K1", survives-loss = false },
+  { recipient = "age1e5sqhu32t2e9xng9f3fxwkrzz2tj02xnxze67d6hphrzxfy87pfsjejcsr", class = "R", survives-loss = true },
+]
+
+[roster.ext.hail.teams.a]
+signing-required = false
+mode = "shadow"
+record-classes = { default = "K1" }
+private-id-prefixes = []
+public-destinations = []
+
+[roster.ext.hail.teams.b]
+signing-required = false
+mode = "shadow"
+sealing = { hosted = "plain" }
+
+[roster.ext.hail.bots."a.planner"]
+watcher-interval = 60
+
+[roster.ext.hail.bots."b.planner"]
+watcher-interval = 1740
+wake-interval = 0
+notice-interval = 0

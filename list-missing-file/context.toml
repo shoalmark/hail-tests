@@ -1,0 +1,21 @@
+destination = "public"
+private-id-prefixes = ["RV-", "SP-"]
+home = []
+
+[limits]
+location-bytes = 4096
+line-bytes = 1024
+listed-files = 16
+message-bytes = 16384
+
+[[repository]]
+origin = "forge.example/a/records"
+head = "fe05bcdcdc4928012781a5f1a2a77cbb5398e106"
+
+[[repository.commit]]
+id = "fe05bcdcdc4928012781a5f1a2a77cbb5398e106"
+tree = [
+    { path = "content", kind = "tree" },
+    { path = "content/SHA256SUMS", kind = "file", bytes = "b0" },
+    { path = "content/b.md", kind = "file", bytes = "b1" },
+]

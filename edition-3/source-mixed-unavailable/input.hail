@@ -1,0 +1,12 @@
+hail/1
+from: a.lead s1
+to: b.lead
+id: a.lead-20261127T1000Z-123abc
+re: none
+marker: INFORMATION
+written-against: 2026-11-27T10:00:00Z
+sources: 2
+#1 work@aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#2 work@bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+The work is in #1, #2.
+end hail/1
