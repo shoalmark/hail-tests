@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "signer"
+about = "C.1 against a roster in which a.planner's key was replaced: a key no longer in the state in force refuses the hail; against Appendix B's roster, as `authority-c01-information`, it verifies (§9; §11, test 54)"

@@ -1,0 +1,3 @@
+rule = "R3"
+checks = ["form", "sources"]
+about = "Source syntax and repository listing pass. No commit object was supplied, so source 1 is not checked and the overall selected checks cannot pass."

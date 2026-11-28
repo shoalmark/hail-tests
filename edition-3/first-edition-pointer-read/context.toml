@@ -1,0 +1,9 @@
+operation = "record-read"
+current-edition = 3
+
+[filing-settings]
+edition = 1
+text-repository = "hail"
+text-path = "spec/hail-1.md"
+text-commit = "f5b160698a180481240dbff5c8cc605aaab06121"
+text-sha256 = "c982390ff42f6413d263f934bcd6298913b3ef45156ea04da6f77c9ee7fcaeb7"

@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "control-character"
+reports = []
+about = "C.6 with a CR inside the value of re: once the hail is rebuilt in canonical form, no line of it holds a control character of class Cc or a direction control (§9; an Owner's answer until an edition takes it)"

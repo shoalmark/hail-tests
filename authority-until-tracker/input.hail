@@ -1,0 +1,17 @@
+hail/1
+from: a.reviewer-1 s1
+to: a.planner
+id: a.reviewer-1-20261115T1002Z-q3hzbc
+re: none
+marker: ADVICE
+written-against: 2026-11-15T10:02:00+00:00
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+pointer: r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:content/result.md sha256 bb37b06bc40a7e20bc5cbbd2d0adff727ad2b9c5c15a41533724de9d63c31dbe
+The result is ready for the next check.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAguT7vUvvQ98GJ016shtVF2b3bNC
+xykVO9ofb0xIF7ad4AAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAEC+CejeenVhP9S21nod8a1DpysqjskcIFbRtvVZt2/HNOO5sc4/152/QA/BafT/V8
+peRuPs2UXDkdwP9nnTnPkN
+-----END SSH SIGNATURE-----

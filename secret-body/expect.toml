@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "secret"
+about = "A secret the given pattern set finds in the body is refused (§11; test 60)"

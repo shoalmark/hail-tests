@@ -1,0 +1,4 @@
+repositories = { work = "https://forge.example/work" }
+path = "anywhere/result.txt"
+path-kind = "file"
+commit-present = true

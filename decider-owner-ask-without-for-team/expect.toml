@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "missing-key"
+reports = []
+about = "C.29 as a decider's direct Owner-ask with no for-team (§3, §10; §11 test 106)"

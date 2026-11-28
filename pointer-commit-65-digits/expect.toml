@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "pointer-form"
+reports = []
+about = "C.6 whose pointer commit has 65 hex digits: 7 to 64 (§3)"

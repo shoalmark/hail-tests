@@ -1,0 +1,3 @@
+rule = "S4"
+checks = ["form", "sources"]
+about = "The second line is heading key; the exact bytes key occur in that first selected line. No language or word-boundary inference is needed."

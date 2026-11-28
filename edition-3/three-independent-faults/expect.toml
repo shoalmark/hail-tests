@@ -1,0 +1,22 @@
+format = 2
+verdict = "refuse"
+fault-count = 3
+reports = []
+
+[[faults]]
+code = "h-address-form"
+location = "header to"
+match = "exact"
+line = "header to: missing is not a bot address; write a listed owner.bot or team.handle address."
+
+[[faults]]
+code = "h-time"
+location = "header written-against"
+match = "exact"
+line = "header written-against: yesterday is not a calendar time; write a valid YYYY-MM-DDTHH:MM:SSZ time or numeric offset."
+
+[[faults]]
+code = "h-citation"
+location = "body line 1"
+match = "exact"
+line = "body line 1: citation #3 has no source; write the value here or cite an existing #1 through #9."

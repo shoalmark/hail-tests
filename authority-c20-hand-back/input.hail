@@ -1,0 +1,17 @@
+hail/1
+from: org.coordinator s1
+to: a.planner
+id: org.coordinator-20261115T1020Z-qndkrn
+re: a.planner-20261115T1013Z-7eqxmv
+marker: INFORMATION
+written-against: 2026-11-15T10:20:00+00:00
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+pointer: r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:records/org/decision.txt sha256 34c733a1db80d2212d65495f501dac99a66b5ae4c71590abd0feec562bf029ff
+The Owner chose A. Check the signed answer before acting.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgeXk6lr/H0FX8P6T92gXeWbTvuK
+Linn+m673D/6BysQoAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAECZKRCPB1BNx+qsVQLhsEa+tV5ljb3vLXdujPnfWNHl9nUE6lR/CJR/8ES3qSMlsu
+P+g52GDqNbpN+e4Oq0Am0K
+-----END SSH SIGNATURE-----

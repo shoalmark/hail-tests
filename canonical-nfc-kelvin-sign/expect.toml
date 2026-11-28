@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "reserved-marker"
+reports = []
+about = "C.1 whose marker ends in U+212A KELVIN SIGN, which NFC maps to K: in canonical form it is BACK, reserved to the Owner (§4, §9)"

@@ -1,0 +1,10 @@
+hail/1
+from: org.coordinator s1
+to: org.coordinator
+id: org.coordinator-20261115T1027Z-3vyt0r
+re: none
+marker: AWAY
+written-against: 2026-11-15T10:27:00+00:00
+pointer: none
+The coordinator is away.
+end hail/1

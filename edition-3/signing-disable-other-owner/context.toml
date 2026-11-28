@@ -1,0 +1,4 @@
+prior-signing = "on"
+candidate-signing = "off"
+verified-signer = "other-owner"
+roster = false

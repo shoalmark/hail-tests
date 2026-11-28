@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "private-id-prefix"
+about = "A configured prefix that does not end in `-` blocks every public-bound hail, even one holding no match (§11 \"A malformed prefix refuses every public-bound hail until fixed\"; test 76)"

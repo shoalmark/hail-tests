@@ -1,0 +1,3 @@
+rule = "S4"
+checks = ["form", "sources"]
+about = "The range is valid, but key is only on line 2, not the first selected line 1. It therefore refuses."

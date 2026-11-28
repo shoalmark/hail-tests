@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "reach"
+about = "An unsigned WARNING from a builder of team a to team b's builder: no grant's `to` names it, and the rule reaches its own team only (§8)"

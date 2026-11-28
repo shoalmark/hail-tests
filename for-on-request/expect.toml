@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "key-not-allowed"
+reports = []
+about = "C.6 with for: owner: for is on a bot's QUESTION needing the Owner (§3)"

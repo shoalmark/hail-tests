@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "limits-not-checked"]
+about = "With only the location limit given, the scan runs unbounded by the line and files limits, and the run says so (§11 \"omitted inputs never give a full pass\")"

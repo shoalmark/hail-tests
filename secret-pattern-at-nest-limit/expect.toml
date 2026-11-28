@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only"]
+about = "A pattern nested 64 groups deep, as deep as a pattern may nest, compiles, finds nothing, and the hail passes (§11 \"the versioned secret-pattern set given as an input\")"

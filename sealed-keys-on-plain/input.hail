@@ -1,0 +1,19 @@
+hail/1
+from: a.planner s1
+to: b.planner
+id: a.planner-20261115T1031Z-79jmfc
+re: none
+marker: INFORMATION
+written-against: 2026-11-15T10:31:00+00:00
+sealed-to: age1ve2k4cl39dnxy7vsp9ssa57ksmuqjknr0m68k6nrwmkarlfah9usm7vg9j, age1609060eu4z03gcdlrxk4n5wws3ywe83z895rx4tgkkc5vp97pfvqaua0dn, age1e5sqhu32t2e9xng9f3fxwkrzz2tj02xnxze67d6hphrzxfy87pfsjejcsr
+min-class: K1
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+pointer: r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:content/result.md sha256 bb37b06bc40a7e20bc5cbbd2d0adff727ad2b9c5c15a41533724de9d63c31dbe
+The small result is ready to read.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgEbabQscXyJYKw8gx1yWnu+kLnd
+sAkIl73zigKVEbyqcAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAECqWjw8gxG0tBvyQ+jJ8cpcjoE0PiFetoyl94hcptMV24gE58VE3Pe5JPkTm1Uqlp
+ceNV009YidJDtf3lqqCMME
+-----END SSH SIGNATURE-----

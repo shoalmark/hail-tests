@@ -1,0 +1,17 @@
+hail/1
+from: a.builder-1 s1
+to: a.planner
+id: a.builder-1-20261115T1010Z-1sy88h
+re: a.planner-20261115T1006Z-ks8d3c
+marker: DECLINED
+written-against: 2026-11-15T10:10:00+00:00
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+pointer: none
+Cannot obtain the pointed-at file; no work was done.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgSrkqFF2E6nKrlw9TrD2ulTSFTu
+vj6vU6QHJmk2UzClgAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAEAM4139iFFWP714aN479codMmUqmZbFQMwUE71zDb32LFAHDRUsodxproBe/0++Ck
+lYzDsTDpqZ0fcfQk50II0I
+-----END SSH SIGNATURE-----

@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "not-in-roster"
+about = "C.2 against a roster without a.reviewer-1: its sender is not in the roster (§4, §8)"

@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "home-path"
+about = "A home-path form in a file the list names, not in the list, is refused on a public route (§11 \"Both tools hash and scan every file reached through a SHA256SUMS list\"; test 75)"

@@ -1,0 +1,3 @@
+rule = "S8"
+checks = ["form", "sources"]
+about = "A ref name is not a lower-case hex commit id. The general syntax repair prints every permitted source form; lookup skips."

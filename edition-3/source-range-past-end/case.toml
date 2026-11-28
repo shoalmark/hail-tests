@@ -1,0 +1,3 @@
+rule = "S3"
+checks = ["form", "sources"]
+about = "There are three lines, not four; the terminal LF creates no fourth empty line. Range ordering passes, then the end check refuses."

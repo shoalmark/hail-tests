@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "edition-not-compared"]
+about = "An unsigned INFORMATION naming `hail@4f2a9c1`, the writer's text, with no edition lookup given: the difference from the adopted edition is not compared, and that is reported (§3, §8; §11, test 66)"

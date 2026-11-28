@@ -1,0 +1,20 @@
+hail/1
+from: a.planner s1
+to: a.builder-1
+id: a.planner-20261115T1022Z-jte0h3
+re: none
+marker: START
+written-against: 2026-11-15T10:22:00+00:00
+bot: a.builder-1
+session: s2
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+waiting: AA-4 is open for this bot and no session of it holds AA-4.
+pointer: none
+The starter supplied the kind definition and its current declared skills.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgEbabQscXyJYKw8gx1yWnu+kLnd
+sAkIl73zigKVEbyqcAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAEBLT537kJVevitDGOhSUBnxR1UtJBUO0uOGX3cgKZTp3XF77NvG4vnjRwiQ3qhaY0
+yIPh+I5SVSQe7/vfBYcwoP
+-----END SSH SIGNATURE-----

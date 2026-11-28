@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "unsigned"
+about = "An unsigned INFORMATION inside team b, which requires signing: all of a flagged team's outgoing hails need signatures (§9; §11, test 77)"

@@ -1,0 +1,3 @@
+rule = "E5"
+checks = ["form"]
+about = "DONE has no content or result-source requirement in hail/1."

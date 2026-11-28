@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "retired"
+reports = []
+about = "C.16 from owner pair, which this edition refuses (§3)"

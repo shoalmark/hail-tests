@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "re-form"
+reports = []
+about = "C.16 whose re names two ids: on a DECISION it is exactly its ask's id (§3)"

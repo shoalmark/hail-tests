@@ -1,0 +1,3 @@
+rule = "E1"
+checks = ["earlier-edition-read"]
+about = "Read the first-edition pointer form under its filing text and preserve every input byte."

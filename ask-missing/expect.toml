@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "ask-missing"
+reports = []
+about = "C.6 without its ask line (§3; §11 test 72)"

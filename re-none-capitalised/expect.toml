@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "re-form"
+reports = []
+about = "C.1 with re: None: a free description is never a spelling of none in another case (§3; §11 test 68)"

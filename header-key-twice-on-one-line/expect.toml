@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "key-twice"
+reports = []
+about = "C.6 with to given twice on one line (§3; §11 test 68)"

@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "body-frame-line"
+reports = []
+about = "C.6 whose second body line is -----END AGE ENCRYPTED FILE-----: a sealed span's armor line (§9a); a body holds no line of a frame's form and no armor line (§2; an Owner's answer until an edition takes it)"

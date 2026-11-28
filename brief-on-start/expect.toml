@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "key-not-allowed"
+reports = []
+about = "C.22 carrying brief: on a bot's non-control hail only (§3)"

@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "pointer-form"
+reports = []
+about = "C.6 whose pointer is the path content/lane-4.md alone, with neither a repository token nor a workbench name, and no sha256 (§3)"

@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "future-time"
+reports = []
+about = "C.6 against a reference time two minutes and one second before its written time (§11 test 57)"

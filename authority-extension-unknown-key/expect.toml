@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "extension"
+about = "C.1 against a roster whose `ext.hail` carries a key the key table doesn't define: the hail reader refuses every hail act, while the roster stays sound for other namespaces (§8; §11, test 97)"

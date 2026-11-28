@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "id-form"
+reports = []
+about = "C.6 whose id is a.planner-20261115-001, a sender, a date and a counter: an id holds a stamp and a random key, never a counter (§3; §11 test 55)"

@@ -1,0 +1,3 @@
+rule = "E1"
+checks = ["form"]
+about = "Zero sources need no citation."

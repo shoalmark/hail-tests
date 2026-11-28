@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-authority", "not-checked-live-record", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "secrets-not-checked"]
+about = "The committed bytes hold CRLF line ends, and the pointer hashes them as committed: it passes (§3 \"In git the hash covers the bytes as committed, whatever a checkout converts\"; §11, test 73)"

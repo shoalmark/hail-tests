@@ -1,0 +1,16 @@
+hail/1
+from: owner desktop
+to: a.planner
+id: owner-20261115T1040Z-0wn3r4
+re: none
+marker: INFORMATION
+written-against: 2026-11-15T10:40:00+00:00
+pointer: none
+The result is ready to read.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgrwnpHqh+uA7PrMxazpsDidPMpX
+W2TGzrF/YEcBmzB+cAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAEC8xMErJQlH4q90M3SdG+RVe5qa2Dv+vbpOK2pif+aWOYdbvsuqf9c31gSj55HBzm
+ZBkcYqZfU9tBWMuJFsL3IO
+-----END SSH SIGNATURE-----

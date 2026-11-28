@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "reach"
+about = "An unsigned Owner-ask from a builder: another bot holds no `hail.owner` (§8, §10b; §11, test 14)"

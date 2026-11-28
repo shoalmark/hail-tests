@@ -1,0 +1,3 @@
+rule = "E3"
+checks = ["settings-addresses"]
+about = "A root-file record refuses an unknown addressee."

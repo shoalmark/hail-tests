@@ -1,0 +1,3 @@
+rule = "E2"
+checks = ["form", "sources"]
+about = "Committed source bytes and optional hash."

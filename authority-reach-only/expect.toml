@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "reach"
+about = "C.2 against a roster where a.reviewer-1's `hail.message` to a.planner has `only` naming INFORMATION alone: its ADVICE is outside the grant (§8)"

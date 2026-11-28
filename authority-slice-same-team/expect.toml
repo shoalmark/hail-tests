@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only"]
+about = "An unsigned INFORMATION inside team a, read by a bot reader from its lock: a slice checks a hail inside its own team; the slice of team a omits team b, which `ext.hail` names, and is not refused for that omission (§8; §11, tests 96 and 97)"

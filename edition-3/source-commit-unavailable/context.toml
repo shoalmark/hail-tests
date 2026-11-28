@@ -1,0 +1,7 @@
+[settings]
+repositories = { work = "https://forge.example/work" }
+source-hashes = false
+
+[lookup]
+object-inventory-complete = false
+parent-graph-complete = false

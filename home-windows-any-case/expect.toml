@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "home-path"
+about = "The Windows forms match in any case: c:\\USERS\\<name>\\ in the body is refused (§11 \"the last two case-insensitive\"; test 75)"

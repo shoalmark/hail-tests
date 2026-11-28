@@ -1,0 +1,3 @@
+rule = "E3"
+checks = ["form"]
+about = "The team-qualified plan form passes."

@@ -1,0 +1,22 @@
+hail/1
+from: person.m1
+to: owner
+id: person.m1-20261115T1040Z-q8a7nh
+re: none
+marker: QUESTION
+written-against: 2026-11-15T10:40:00+00:00
+kind: owner-act
+why: Only the Owner can widen the scope.
+clarify: person.m1
+decide-by: 2026-11-16T10:40:00+00:00
+for-team: a
+pointer: none
+The team may keep the small check within its current scope.
+ask: Do you widen the scope to the small check?
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg6oP9Sb/hoiBElLNOyQRhwEinQ9
+UERBMO+wnpHT02aJcAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAEDeeabaDgZMrRr2lZWI+uu7/TFWGkiPSebcqdjUOna6BV9aWo3EyOvhhv2jbl5zYK
+hOC+ihgrVmT6PfzG1P3CwC
+-----END SSH SIGNATURE-----

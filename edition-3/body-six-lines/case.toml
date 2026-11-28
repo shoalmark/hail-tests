@@ -1,0 +1,3 @@
+rule = "E5"
+checks = ["form"]
+about = "hail/1 has no body line budget."

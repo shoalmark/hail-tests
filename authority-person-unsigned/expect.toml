@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "not-signed"
+about = "C.29 without its signature, every team flag false: a person's hail is signed always (§9; §11, test 78)"

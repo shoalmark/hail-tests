@@ -1,0 +1,3 @@
+rule = "S8"
+checks = ["form", "sources"]
+about = "The named tree entry is a directory, so it cannot be a file source. A directory component would be permitted, but the final entry must be a regular blob."

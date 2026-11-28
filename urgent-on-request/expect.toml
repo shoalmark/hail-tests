@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "key-not-allowed"
+reports = []
+about = "C.6 with urgent: on a for: owner QUESTION, an Owner-ask or a concern (§3)"

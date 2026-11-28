@@ -1,0 +1,4 @@
+sender-kind = "bot"
+marker = "STOP"
+reverse-answer-grant = false
+other-checks = "pass"

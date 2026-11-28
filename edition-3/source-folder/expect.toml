@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-source-kind"
+location = "source 1"
+match = "exact"
+line = "source 1: result.txt is not a regular file path at the named commit; write name:path@commit naming a regular file through tree directories only. For a file change use name:path@from..to with a regular file at every endpoint where the path exists."

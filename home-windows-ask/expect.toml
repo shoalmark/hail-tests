@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "home-path"
+about = "The form C:\\Users\\<name>\\ in the ask on a public route is refused (§11; test 75)"

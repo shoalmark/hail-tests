@@ -1,0 +1,3 @@
+rule = "S7"
+checks = ["form", "sources"]
+about = "The 64-digit hash suffix is well formed but forbidden on a commit source. Target lookup still passes independently."

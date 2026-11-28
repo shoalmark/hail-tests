@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-source-text"
+location = "source 1"
+match = "exact"
+line = "source 1: result.txt is not UTF-8 text without NUL; write name:path@commit for the whole file, or name:path@commit:first-last for a text file."

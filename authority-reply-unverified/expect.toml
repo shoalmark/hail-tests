@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "reach"
+about = "The RECEIVED to the decider where the C.29 given carries no signature: the person's hail is not verified, so it binds no reply (§8; §11, test 105)"

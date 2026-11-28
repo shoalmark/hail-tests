@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "key-twice"
+reports = []
+about = "C.6 with to given twice: a key given twice is malformed on every hail (§3; §11 test 68)"

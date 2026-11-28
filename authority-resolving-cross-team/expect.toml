@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only"]
+about = "C.1 read by a resolving reader whose pin is the organisation's state in force: a reader that resolves checks a hail across teams against the whole roster (§8; §11, test 96)"

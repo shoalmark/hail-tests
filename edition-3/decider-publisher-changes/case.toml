@@ -1,0 +1,3 @@
+rule = "E9"
+checks = ["decider-publication"]
+about = "Publishing gives no right to rewrite a signed source."

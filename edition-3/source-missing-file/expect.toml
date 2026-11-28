@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-source-path"
+location = "source 1"
+match = "exact"
+line = "source 1: result.txt is absent at the named commit; write name:path@commit with a regular file path present at that commit."

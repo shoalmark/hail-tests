@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "private-id"
+about = "A private id in the pointed-at file of a public-bound hail is refused (§11 \"in those same bytes\"; test 76)"

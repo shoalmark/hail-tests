@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "reach"
+about = "C.2 where a.reviewer-1's only `hail.message` grant to a.planner ended on 2026-01-01: no grant reaches the recipient (§8)"

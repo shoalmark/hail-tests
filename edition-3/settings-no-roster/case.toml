@@ -1,0 +1,3 @@
+rule = "E3"
+checks = ["settings-addresses"]
+about = "Listed owner and bot addresses work without a roster."

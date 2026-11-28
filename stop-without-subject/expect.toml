@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "missing-key"
+reports = []
+about = "C.7 without subject: a STOP always names one item, even in shadow mode (§3)"

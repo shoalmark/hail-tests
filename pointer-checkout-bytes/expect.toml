@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "pointer-hash"
+about = "The pointer hashes a checkout's LF-converted bytes, not the CRLF bytes as committed: refused (§3 \"Pointer hashes cover files\"; §11, test 73)"

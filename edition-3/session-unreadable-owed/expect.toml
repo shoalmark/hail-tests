@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-record-owed"
+location = "record owed"
+match = "exact"
+line = "record owed: record is unreadable; obtain and read the landed owed record before beginning matter work."

@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "home-path"
+about = "The form C:/Users/<name>/ in the pointed-at file on a private route is refused (§11 \"or any file the pointer or its hash list names\"; test 75)"

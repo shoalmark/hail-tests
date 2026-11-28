@@ -1,0 +1,5 @@
+repository = "https://forge.example/record"
+commit = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+path = "hails/a/notice.txt"
+addressee = "b.lead"
+body = ""

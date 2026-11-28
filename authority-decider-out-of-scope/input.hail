@@ -1,0 +1,16 @@
+hail/1
+from: person.m1
+to: b.planner
+id: person.m1-20261115T1040Z-d3c4d3
+re: none
+marker: INFORMATION
+written-against: 2026-11-15T10:40:00+00:00
+pointer: none
+A plain fact for the record.
+end hail/1
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg6oP9Sb/hoiBElLNOyQRhwEinQ9
+UERBMO+wnpHT02aJcAAAAEaGFpbAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQyNTUx
+OQAAAEAI1/EphiCfimfFc7V+YDmns4rmo6tq80p/CVPJX9inqSOBtLIlN4+4EbDlC9VPYF
+HD0HKyEnPeWEqFN0X7qaAB
+-----END SSH SIGNATURE-----

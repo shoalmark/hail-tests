@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "pointer-unavailable"
+about = "The tree entry proves the pointed-at file, but its bytes are not given: refused (§11 \"any pointed-at bytes it cannot obtain or verify\"; test 60)"

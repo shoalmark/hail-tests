@@ -1,0 +1,3 @@
+rule = "E9"
+checks = ["roster-signing-flag", "signing-step"]
+about = "The roster flag defaults to true; false is refused under the signing rule."

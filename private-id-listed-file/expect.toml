@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "private-id"
+about = "A private id in a file a list names is refused on a public route (§11 \"using the same home-path, private-id and versioned secret-pattern checks\"; test 76)"

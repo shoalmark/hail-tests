@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "reason-required"
+reports = []
+about = "C.16 answering words with an empty body: a reason is given with words (§10b; §11 test 23)"

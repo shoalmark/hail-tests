@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only"]
+about = "Appendix C.12, C.7 again byte for byte, against Appendix B's roster: a duplicate is the duplicates row's to judge; its authority holds as C.7's does (§8, §9)"

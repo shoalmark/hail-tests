@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-entry"
+about = "A listed file whose parent folder is a symbolic link is refused (§3 \"at the file or any parent\"; §11, test 103)"

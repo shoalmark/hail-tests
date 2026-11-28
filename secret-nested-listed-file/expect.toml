@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "secret"
+about = "A secret in a file reached through a nested list is refused (§11 \"including through another list\"; test 103)"

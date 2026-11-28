@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-missing"
+about = "A listed file whose parent folder has no tree entry is not proven, and is refused as missing (§3; §11 \"repository tree entries proving paths and regular files\"; test 103)"

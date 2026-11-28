@@ -1,0 +1,12 @@
+hail/1
+from: org.coordinator s1
+to: a.planner
+id: org.coordinator-20261115T1007Z-ktdhn5
+re: none
+marker: STOP
+written-against: 2026-11-15T10:07:00+00:00
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+subject: AA-4, AA-5
+pointer: r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:content/result.md sha256 bb37b06bc40a7e20bc5cbbd2d0adff727ad2b9c5c15a41533724de9d63c31dbe
+Hold the push of lane 4 while the result is checked.
+end hail/1

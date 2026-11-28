@@ -1,0 +1,2 @@
+location = "local-commit"
+remote-default-branch = false

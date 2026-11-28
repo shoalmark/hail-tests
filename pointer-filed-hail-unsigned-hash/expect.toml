@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "pointer-hash"
+about = "A pointer to a filed hail whose hash covers the frame without its signature block: refused, since a file pointer includes signature blocks (§3 \"Pointer hashes cover files\"; §11, test 73)"

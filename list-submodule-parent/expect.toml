@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-entry"
+about = "A listed file under a submodule crosses to another repository and is refused (§3 \"No path crosses to another repository\"; §11, test 103)"

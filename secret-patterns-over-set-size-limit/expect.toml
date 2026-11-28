@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "secret-pattern"
+about = "Thirty-two patterns of ten thousand repeated classes, each inside its own limit, exceed the set's compiled-size limit together and refuse the hail: compiling the set is bounded (§11 \"the versioned secret-pattern set given as an input\")"

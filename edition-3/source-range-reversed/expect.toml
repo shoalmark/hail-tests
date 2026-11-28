@@ -1,0 +1,10 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-source-range-order"
+location = "source 1"
+match = "exact"
+line = "source 1: range 3-2 starts after it ends; write name:path@commit:first-last with 1 <= first <= last."

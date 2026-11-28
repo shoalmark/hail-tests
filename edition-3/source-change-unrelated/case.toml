@@ -1,0 +1,3 @@
+rule = "S5"
+checks = ["form", "sources"]
+about = "Both supplied commits are roots in a complete graph, so from is not an ancestor of to."

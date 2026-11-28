@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-revision"
+about = "The list pointer names a commit other than the written-against revision: refused (§3 \"An explicit pointer commit MUST resolve to that same revision\"; §11, test 103)"

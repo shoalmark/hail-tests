@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "roster-unreadable"
+about = "A resolving reader refuses roster-unreadable when its hash-matching lock is the slice at the pin with only a.builder-2's section and its keys subtable omitted (sealanes/1 §2.3; hail/1 §8), even when the pin is the state in force."

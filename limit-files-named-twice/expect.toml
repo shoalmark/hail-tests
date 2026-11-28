@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "files-limit"
+about = "A hash list names one file twice: each line that names it reaches it, so two files are reached, one more than the files limit. hail check's own limit, given in the scan policy (§11 \"scan policy as explicit inputs\")"

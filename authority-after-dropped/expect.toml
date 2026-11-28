@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "reach"
+about = "C.2 read by a bot reader where a.reviewer-1's `hail.message` carries `after`, which sealanes/1 allows only on forge acts: the grant is dropped and grants nothing (§8)"

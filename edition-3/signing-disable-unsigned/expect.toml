@@ -1,0 +1,12 @@
+format = 2
+verdict = "refuse"
+fault-count = 1
+reports = []
+
+[[faults]]
+code = "h-signing-downgrade"
+location = "settings signing"
+match = "content"
+problem-content = "only this owner’s signed commit can turn signing off"
+repair-content = ["Keep signing on, or supply the affected owner's signed commit verified under its prior owner key."]
+example = "settings signing: only this owner’s signed commit can turn signing off; keep signing on or supply that commit."

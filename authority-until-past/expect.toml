@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "reach"
+about = "The same roster with a reference time after 2026-12-01: the grant has ended, and no right reaches the recipient (§8; §11)"

@@ -1,0 +1,3 @@
+rule = "S7"
+checks = ["form", "sources"]
+about = "A commit source remains hash-free when source-hashes is true; that setting governs whole files alone."

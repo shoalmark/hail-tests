@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "missing-key"
+reports = []
+about = "C.6 with a free-text re and no matter: a REQUEST or QUESTION with free-text re carries matter (§10)"

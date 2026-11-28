@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "list-workbench"
+about = "A SHA256SUMS list named by a workbench pointer is refused (§3 \"It MUST name a repository file, not a workbench file\"; §11, test 103)"

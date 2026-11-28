@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "session-distinct"
+reports = []
+about = "C.26 whose session is the sender's own (§3)"

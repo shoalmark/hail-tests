@@ -1,0 +1,3 @@
+rule = "E10"
+checks = ["receipts"]
+about = "A request still owes its answer but no preliminary RECEIVED."

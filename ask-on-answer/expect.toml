@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "ask-forbidden"
+reports = []
+about = "C.5, an ANSWER, with an ask line (§3; §11 test 72)"

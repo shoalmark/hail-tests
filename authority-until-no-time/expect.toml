@@ -1,0 +1,3 @@
+verdict = "pass"
+reports = ["not-checked-live-record", "not-checked-pointers", "not-checked-duplicates", "not-checked-decision", "not-checked-act", "not-checked-sessions", "not-checked-forced-end", "not-checked-away", "not-checked-decider", "time-form-only", "grant-not-checked", "not-checked-authority"]
+about = "The same roster with no reference time: whether the grant holds is not checked, and that is reported; nothing is refused for a missing input (§8; §11, test 100)"

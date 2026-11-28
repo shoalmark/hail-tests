@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "home-path"
+about = "The form /Users/<name>/ in a header remark on a public route is refused (§11 \"an absolute home path in the header, body, ask, or any file\"; test 75)"

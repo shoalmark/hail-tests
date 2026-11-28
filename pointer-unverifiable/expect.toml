@@ -1,0 +1,3 @@
+verdict = "refuse"
+rule = "pointer-hash"
+about = "The pointed-at bytes are given but their sha256 is not the pointer's hash: refused as bytes it cannot verify (§11; test 60)"

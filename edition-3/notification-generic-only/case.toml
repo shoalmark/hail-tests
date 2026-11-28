@@ -1,0 +1,3 @@
+rule = "E7"
+checks = ["notification"]
+about = "A generic notice without a landed record reference cannot locate the hail."

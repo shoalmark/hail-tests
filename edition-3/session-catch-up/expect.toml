@@ -1,0 +1,6 @@
+format = 2
+verdict = "pass"
+actions = ["read question", "read accepted-request", "read stop", "read requested-receipt"]
+fault-count = 0
+faults = []
+reports = []

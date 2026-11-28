@@ -1,0 +1,7 @@
+format = 2
+verdict = "pass"
+actions = ["report malformed hail"]
+blocks = false
+fault-count = 0
+faults = []
+reports = []

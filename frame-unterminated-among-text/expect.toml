@@ -1,0 +1,3 @@
+verdict = "not-judged"
+reports = []
+about = "Text, then C.6 without its end line, then text: hail/1 with no end hail/1 after it opens no span, so the message holds no hail (§2)"

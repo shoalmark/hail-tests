@@ -1,0 +1,3 @@
+rule = "E10"
+checks = ["form"]
+about = "Explicit receipt requests do not create loops."

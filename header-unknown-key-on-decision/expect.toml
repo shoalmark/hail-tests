@@ -1,0 +1,4 @@
+verdict = "refuse"
+rule = "unknown-key"
+reports = []
+about = "C.16 with a header key the edition does not define: a DECISION carrying one is refused (§3)"

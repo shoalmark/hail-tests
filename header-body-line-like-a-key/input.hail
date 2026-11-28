@@ -1,0 +1,12 @@
+hail/1
+from: a.planner s1
+to: a.builder-1, a.builder-2, a.reviewer-1, a.reviewer-2
+id: a.planner-20261115T1003Z-ber8hd
+re: none
+marker: WARNING
+written-against: 2026-11-15T10:03:00+00:00
+matter: tracker:r-6ac23d3f8c7f891fe3ca45a0871f75ec043c7d5758befb3151a6481c222dafa4:AA-4
+pointer: none
+The forge has refused each push since 10:02.
+note: the forge is down
+end hail/1
